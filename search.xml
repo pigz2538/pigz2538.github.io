@@ -1,28 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>这里是下午鼓捣图床和编辑器的历程</title>
-    <url>pigz2538.github.io/2020/05/01/%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%8B%E5%8D%88%E9%BC%93%E6%8D%A3%E5%9B%BE%E5%BA%8A%E5%92%8C%E7%BC%96%E8%BE%91%E5%99%A8%E7%9A%84%E5%8E%86%E7%A8%8B/</url>
-    <content><![CDATA[<p><del>啊，我太难了</del></p>
-<a id="more"></a>
-
-<h3><span id="首先我要感谢知乎上的这篇文章">首先我要感谢知乎上的这篇文章：</span></h3><p><a href="https://zhuanlan.zhihu.com/p/69210764/" target="_blank" rel="noopener" title="Markdown编辑器比较">一些Markdown编辑器的比较</a></p>
-<p>原本听说过<strong>VS Code</strong>和<strong>Typora</strong>这两款软件，以及使用过网页端的<strong>马克飞象</strong>和<strong>小书虫</strong>，<br>主要网页端挺方便，还支持$\LaTeX$公式，就没咋研究过编辑器。</p>
-<p>现在有了需求，就开始纠结用啥了，其实原本个人更倾向于<strong>VS Code</strong>，毕竟巨硬的东西看起来就赏心悦目，插件也是非常丰富，但苦于对$\LaTeX$支持不好，配置较为麻烦，遂转为<strong>Typora</strong>。</p>
-<p><del>（其实我对$\TeX$系统语法不是很了解，基本上除了基础语法之外都要查表）</del></p>
-<p>当然以后大学有条有时间折腾的话，应该会考虑转为<strong>VS Code</strong>。<br><del>（才不是因为<strong>VS Code</strong>可以自定义图标背景呢！）</del></p>
-<p>不过咱家的电脑也有点过时，<strong>Typora</strong>整个应用程序都会有点视觉暂留，这绝对是显卡的锅。<br>能用就行，反正香就完事了~</p>
-<h3><span id="接着就是寻找图床">接着就是寻找图床</span></h3><p>非常感谢发达的互联网，已经有许多人分享了自己的经验，为我们这些后辈减少了许多的弯路。<br>经过一番文章对比与分析，作为年收入为负数的我，毅然选择了<strong>PicGo + Github</strong>的方式。</p>
-<p><a href="https://zhuanlan.zhihu.com/p/69210764/" target="_blank" rel="noopener" title="GitHub+PicGo构建免费图床及其高效使用">图床教程1</a><br><a href="https://www.jianshu.com/p/4cd14d4ceb1d/" target="_blank" rel="noopener" title="手把手教你用Typora自动上传到picgo图床【教程与排坑】">图床教程2</a></p>
-<p>这两篇综合起来，还是挺全面的，其它的给我挖了一些坑。<br>（比如PicGo 的 Github 仓库填写以及上传图片时间戳啥的。）</p>
-<p>其中坑包括但不限于：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200501155723.png" alt="仓库名称前边的用户名" title="仓库名称前边的用户名"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200501160021.png" alt="图片时间戳防重名" title="图片时间戳防重名"></p>
-<p>对了，顺便一提，图片用的<strong>jsdelivr</strong>进的CDN行加速。</p>
-<p>啊，晚上再进行一些优化吧。</p>
-]]></content>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>pigz2538.github.io/2020/05/01/HelloWorld/</url>
     <content><![CDATA[<blockquote>
@@ -44,6 +22,28 @@
 <p>对了测试一下LaTeX</p>
 <p>$$ \LaTeX $$<br>$$ e^{i \pi} + 1 = 0 $$</p>
 <p>晚安！</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>这里是下午鼓捣图床和编辑器的历程</title>
+    <url>pigz2538.github.io/2020/05/01/%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%8B%E5%8D%88%E9%BC%93%E6%8D%A3%E5%9B%BE%E5%BA%8A%E5%92%8C%E7%BC%96%E8%BE%91%E5%99%A8%E7%9A%84%E5%8E%86%E7%A8%8B/</url>
+    <content><![CDATA[<p><del>啊，我太难了</del></p>
+<a id="more"></a>
+
+<h3><span id="首先我要感谢知乎上的这篇文章">首先我要感谢知乎上的这篇文章：</span></h3><p><a href="https://zhuanlan.zhihu.com/p/69210764/" target="_blank" rel="noopener" title="Markdown编辑器比较">一些Markdown编辑器的比较</a></p>
+<p>原本听说过<strong>VS Code</strong>和<strong>Typora</strong>这两款软件，以及使用过网页端的<strong>马克飞象</strong>和<strong>小书虫</strong>，<br>主要网页端挺方便，还支持$\LaTeX$公式，就没咋研究过编辑器。</p>
+<p>现在有了需求，就开始纠结用啥了，其实原本个人更倾向于<strong>VS Code</strong>，毕竟巨硬的东西看起来就赏心悦目，插件也是非常丰富，但苦于对$\LaTeX$支持不好，配置较为麻烦，遂转为<strong>Typora</strong>。</p>
+<p><del>（其实我对$\TeX$系统语法不是很了解，基本上除了基础语法之外都要查表）</del></p>
+<p>当然以后大学有条有时间折腾的话，应该会考虑转为<strong>VS Code</strong>。<br><del>（才不是因为<strong>VS Code</strong>可以自定义图标背景呢！）</del></p>
+<p>不过咱家的电脑也有点过时，<strong>Typora</strong>整个应用程序都会有点视觉暂留，这绝对是显卡的锅。<br>能用就行，反正香就完事了~</p>
+<h3><span id="接着就是寻找图床">接着就是寻找图床</span></h3><p>非常感谢发达的互联网，已经有许多人分享了自己的经验，为我们这些后辈减少了许多的弯路。<br>经过一番文章对比与分析，作为年收入为负数的我，毅然选择了<strong>PicGo + Github</strong>的方式。</p>
+<p><a href="https://zhuanlan.zhihu.com/p/69210764/" target="_blank" rel="noopener" title="GitHub+PicGo构建免费图床及其高效使用">图床教程1</a><br><a href="https://www.jianshu.com/p/4cd14d4ceb1d/" target="_blank" rel="noopener" title="手把手教你用Typora自动上传到picgo图床【教程与排坑】">图床教程2</a></p>
+<p>这两篇综合起来，还是挺全面的，其它的给我挖了一些坑。<br>（比如PicGo 的 Github 仓库填写以及上传图片时间戳啥的。）</p>
+<p>其中坑包括但不限于：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200501155723.png" alt="仓库名称前边的用户名" title="仓库名称前边的用户名"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200501160021.png" alt="图片时间戳防重名" title="图片时间戳防重名"></p>
+<p>对了，顺便一提，图片用的<strong>jsdelivr</strong>进的CDN行加速。</p>
+<p>啊，晚上再进行一些优化吧。</p>
 ]]></content>
   </entry>
 </search>
