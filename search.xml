@@ -40,8 +40,8 @@
 <p><a href="https://zhuanlan.zhihu.com/p/69210764/" target="_blank" rel="noopener" title="GitHub+PicGo构建免费图床及其高效使用">图床教程1</a><br><a href="https://www.jianshu.com/p/4cd14d4ceb1d/" target="_blank" rel="noopener" title="手把手教你用Typora自动上传到picgo图床【教程与排坑】">图床教程2</a></p>
 <p>这两篇综合起来，还是挺全面的，其它的给我挖了一些坑。<br>（比如PicGo 的 Github 仓库填写以及上传图片时间戳啥的。）</p>
 <p>其中坑包括但不限于：</p>
-<p><img data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200501155723.png" alt="仓库名称前边的用户名" title="仓库名称前边的用户名"></p>
-<p><img data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200501160021.png" alt="图片时间戳防重名" title="图片时间戳防重名"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200501155723.png" alt="仓库名称前边的用户名" title="仓库名称前边的用户名"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200501160021.png" alt="图片时间戳防重名" title="图片时间戳防重名"></p>
 <p>对了，顺便一提，图片用的<strong>jsdelivr</strong>进的CDN行加速。</p>
 <p>啊，晚上再进行一些优化吧。</p>
 ]]></content>
