@@ -10,7 +10,7 @@
 
 'use strict';
 
-var precacheConfig = [["/pigz2538.github.io/sw-register.js","d02594d0854eb4f7e2340ecb2ca0c228"]];
+var precacheConfig = [["/pigz2538.github.io/sw-register.js","1d84724b7dcb075d0e128b236931296f"]];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 var firstRegister = 1; // 默认1是首次安装SW， 0是SW更新
 
