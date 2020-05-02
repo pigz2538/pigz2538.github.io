@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://pigz2538.github.io/about/index.html</loc>
+    
+    <lastmod>2020-05-02T13:31:29.278Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://pigz2538.github.io/tags/index.html</loc>
     
     <lastmod>2020-05-02T12:32:27.845Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>https://pigz2538.github.io/categories/index.html</loc>
     
     <lastmod>2020-05-02T12:31:49.923Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://pigz2538.github.io/about/index.html</loc>
-    
-    <lastmod>2020-05-02T12:31:26.682Z</lastmod>
     
   </url>
   
