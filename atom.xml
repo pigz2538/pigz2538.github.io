@@ -6,7 +6,7 @@
   <link href="/pigz2538.github.io/atom.xml" rel="self"/>
   
   <link href="https://pigz2538.github.io/"/>
-  <updated>2020-05-04T15:02:37.274Z</updated>
+  <updated>2020-05-06T15:07:14.996Z</updated>
   <id>https://pigz2538.github.io/</id>
   
   <author>
@@ -21,16 +21,13 @@
     <link href="https://pigz2538.github.io/2020/05/04/Html-CSS%E5%90%AF%E8%92%99/"/>
     <id>https://pigz2538.github.io/2020/05/04/Html-CSS%E5%90%AF%E8%92%99/</id>
     <published>2020-05-04T14:50:39.000Z</published>
-    <updated>2020-05-04T15:02:37.274Z</updated>
+    <updated>2020-05-06T15:07:14.996Z</updated>
     
     <content type="html"><![CDATA[<h1><span id="发现个学习htmlcss的好网站">发现个学习Html/CSS的好网站</span></h1><p>就这个<br><a href="https://www.w3school.com.cn/" target="_blank" rel="noopener">https://www.w3school.com.cn/</a></p><p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504225723.png" alt></p><p>看起来挺爽的，查资料啥的也方便，主要有时候markdown语法和网页渲染冲突啥的，比如<span style="border-bottom:2px solid red;">下划线</span>。</p><div class="hide-block"><a class="hide-button button--primary button--animated" style>如何实现下划线？    </a><span class="hide-content"><p>上边这个是这样实现的：<br><code>&lt;span style=&quot;border-bottom:2px solid red;&quot;&gt;下划线&lt;/span&gt;</code></p><p>实际上是巧用了CSS的边框，还有多种可供选择。</p><p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504225719.png" alt></p></span></div>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;h1&gt;&lt;span id=&quot;发现个学习htmlcss的好网站&quot;&gt;发现个学习Html/CSS的好网站&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;就这个&lt;br&gt;&lt;a href=&quot;https://www.w3school.com.cn/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;
-      
+      发现个学习Html/CSS的好网站
     
     </summary>
     
