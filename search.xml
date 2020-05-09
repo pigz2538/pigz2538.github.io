@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Html/CSS启蒙</title>
+    <url>/pigz2538.github.io/2020/05/04/Html-CSS%E5%90%AF%E8%92%99/</url>
+    <content><![CDATA[<h1><span id="发现个学习htmlcss的好网站">发现个学习Html/CSS的好网站</span></h1><p>就这个<br><a href="https://www.w3school.com.cn/" target="_blank" rel="noopener">https://www.w3school.com.cn/</a></p>
+<p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504225723.png" alt></p>
+<p>看起来挺爽的，查资料啥的也方便，主要有时候markdown语法和网页渲染冲突啥的，比如<span style="border-bottom:2px solid red;">下划线</span>。</p>
+<div class="hide-block"><a class="hide-button button--primary button--animated" style>如何实现下划线？
+    </a><span class="hide-content"><p>上边这个是这样实现的：<br><code>&lt;span style=&quot;border-bottom:2px solid red;&quot;&gt;下划线&lt;/span&gt;</code></p><p>实际上是巧用了CSS的边框，还有多种可供选择。</p><p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504225719.png" alt></p></span></div>
+
+
+
+]]></content>
+      <categories>
+        <category>收藏</category>
+      </categories>
+      <tags>
+        <tag>学习</tag>
+        <tag>Html</tag>
+        <tag>CSS</tag>
+        <tag>网站推荐</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/pigz2538.github.io/2020/05/01/HelloWorld/</url>
     <content><![CDATA[<blockquote>
@@ -33,20 +55,120 @@
       </tags>
   </entry>
   <entry>
-    <title>换了个主题</title>
-    <url>/pigz2538.github.io/2020/05/02/%E6%8D%A2%E4%BA%86%E4%B8%AA%E4%B8%BB%E9%A2%98/</url>
-    <content><![CDATA[<p>又浪费了一些时间</p>
-<p>主题Butterfly，看起来8错，就是图片啥的明天鼓捣鼓捣换换，加载速度8太彳亍。</p>
-<p>live2d咋都换不了，就只能用这个<del>老婆</del>了，位置啥的还得调节调节。</p>
-<p>为啥啥主题的归档页面都是这啊啊啊啊啊！！！！</p>
-<p>这不能调节:horse:?</p>
-<p>（↑顺便测试一下markdown的emoji）</p>
+    <title>这里是下午鼓捣图床和编辑器的历程</title>
+    <url>/pigz2538.github.io/2020/05/01/%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%8B%E5%8D%88%E9%BC%93%E6%8D%A3%E5%9B%BE%E5%BA%8A%E5%92%8C%E7%BC%96%E8%BE%91%E5%99%A8%E7%9A%84%E5%8E%86%E7%A8%8B/</url>
+    <content><![CDATA[<p><del>啊，我太难了</del></p>
+<h3><span id="首先我要感谢知乎上的这篇文章">首先我要感谢知乎上的这篇文章：</span></h3><p><a href="https://zhuanlan.zhihu.com/p/69210764/" target="_blank" rel="noopener" title="Markdown编辑器比较">一些Markdown编辑器的比较</a></p>
+<p>原本听说过<strong>VS Code</strong>和<strong>Typora</strong>这两款软件，以及使用过网页端的<strong>马克飞象</strong>和<strong>小书虫</strong>，<br>主要网页端挺方便，还支持$\LaTeX$公式，就没咋研究过编辑器。</p>
+<p>现在有了需求，就开始纠结用啥了，其实原本个人更倾向于<strong>VS Code</strong>，毕竟巨硬的东西看起来就赏心悦目，插件也是非常丰富，但苦于对$\LaTeX$支持不好，配置较为麻烦，遂转为<strong>Typora</strong>。</p>
+<p><del>（其实我对$\TeX$系统语法不是很了解，基本上除了基础语法之外都要查表）</del></p>
+<p>当然以后大学有条有时间折腾的话，应该会考虑转为<strong>VS Code</strong>。<br><del>（才不是因为<strong>VS Code</strong>可以自定义图标背景呢！）</del></p>
+<p>不过咱家的电脑也有点过时，<strong>Typora</strong>整个应用程序都会有点视觉暂留，这绝对是显卡的锅。<br>能用就行，反正香就完事了~</p>
+<h3><span id="接着就是寻找图床">接着就是寻找图床</span></h3><p>非常感谢发达的互联网，已经有许多人分享了自己的经验，为我们这些后辈减少了许多的弯路。<br>经过一番文章对比与分析，作为年收入为负数的我，毅然选择了<strong>PicGo + Github</strong>的方式。</p>
+<p><a href="https://zhuanlan.zhihu.com/p/69210764/" target="_blank" rel="noopener" title="GitHub+PicGo构建免费图床及其高效使用">图床教程1</a><br><a href="https://www.jianshu.com/p/4cd14d4ceb1d/" target="_blank" rel="noopener" title="手把手教你用Typora自动上传到picgo图床【教程与排坑】">图床教程2</a></p>
+<p>这两篇综合起来，还是挺全面的，其它的给我挖了一些坑。<br>（比如PicGo 的 Github 仓库填写以及上传图片时间戳啥的。）</p>
+<p>其中坑包括但不限于：</p>
+<p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200501155723.png" alt="仓库名称前边的用户名" title="仓库名称前边的用户名"></p>
+<p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200501160021.png" alt="图片时间戳防重名" title="图片时间戳防重名"></p>
+<p>对了，顺便一提，图片用的<strong>jsdelivr</strong>的CDN进行加速。</p>
+<p>啊，晚上再进行一些优化吧。</p>
 ]]></content>
       <categories>
         <category>网站历史</category>
       </categories>
       <tags>
         <tag>历史</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>从《后浪》谈起</title>
+    <url>/pigz2538.github.io/2020/05/06/%E4%BB%8E%E3%80%8A%E5%90%8E%E6%B5%AA%E3%80%8B%E8%B0%88%E8%B5%B7/</url>
+    <content><![CDATA[<p><del>（先声讨一下现在一直在蚕食我的蚊子）</del></p>
+<p><strong>没看前言的请先看前言！！！</strong><br><strong>没看前言的请先看前言！！！</strong><br><strong>没看前言的请先看前言！！！</strong></p>
+<p>《后浪》视频地址：<a href="https://www.bilibili.com/video/BV1FV411d7u7" target="_blank" rel="noopener" title="bilibili献给新一代的演讲《后浪》">《后浪》</a></p>
+<hr>
+<h1><span id="简单的自我介绍">简单的自我介绍</span></h1><h2><span id="为什么写这个">为什么写这个</span></h2><ul>
+<li><p>我一直认为，在发表自己的看法和意见之前，让大家先对我有一个大概的了解，是不可或缺的。</p>
+</li>
+<li><p>当其他人了解你之后，能够更好的建立起对文章的内容理解，和对观点的思想把控。</p>
+</li>
+<li><p>对于大多数人来说，如果能提前知道对方的学历、家庭条件、性别、年龄等，便能够明白对方是基于一个什么立场上进行思考的，也能更少的、以自己的视角先入为主的，去理解对方写作的内容，减少不必要的误解。</p>
+<p>好比渔人不解插秧，笑其不养鱼反种草；帝王不懂饥寒，问其“何不食肉糜”？<br><del>（自然，这两个比喻不是很恰当）</del></p>
+</li>
+</ul>
+<h2><span id="基本信息">基本信息</span></h2><p>下面是我认为对理解我有帮助的一些信息：</p>
+<ul>
+<li>男 高二理科生。</li>
+<li>三线小城市 高考有压力。</li>
+<li>父母普通百姓。</li>
+<li>对很多事物感兴趣。</li>
+<li>书读的比较少。</li>
+<li>喜欢平淡的生活，傻开心，也向往远方，也有热血，也会伤心，也会迷茫。</li>
+<li>对政治经济社会等的理解，仅限于部分科普读物和课本。</li>
+<li>理性主义，渐变得感性，向往唯心。</li>
+<li>非常中立，讨厌二元论。</li>
+<li>环保问题上倾向于环保，传统与进步之间倾向进步，除此之外，基本中立。</li>
+<li>测试结果是自由主义。</li>
+<li><del>讨厌蚊子。</del></li>
+</ul>
+<p>之前的某一次测试（仅供参考）  ↓<br><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200506235244.jpg" alt></p>
+<h1><span id="后浪的长处">《后浪》的长处</span></h1><div class="hide-block"><a class="hide-button button--primary button--animated" style>回顾后浪
+    </a><span class="hide-content"><p>　　首先，我想将后浪的演讲词进行一番概括，因为我觉得这篇演讲词，煽情似乎占据了不小的部分，而真正的内容输出，并不多。</p><blockquote><p>那些口口声声“一代不如一代”的人 | 应该看着你们 | 就像我一样</p></blockquote><blockquote><p>我看着你们 | 满怀羡慕<br>人类积攒了几千年的财富 | 所有的知识、见识、智慧和艺术 |像是专门为你们准备的礼物<br>科技繁荣、文化繁茂、城市繁华 | 现代文明的成果被层层打开 | 可以尽情享用<br>自由学习一门语言、一门手艺 | 欣赏一部电影、去遥远的地方旅行 | 从小你们就在自由探索自己的兴趣</p></blockquote><blockquote><p>很多人在童年就进入了不惑之年 | 不惑于自己喜欢什么，不喜欢什么<br>人与人之间的壁垒被打破 | 你们只凭相同的爱好 | 就能结交千万个值得干杯的朋友</p></blockquote><blockquote><p>你们拥有了我们曾经梦寐以求的权利 | 选择的权利<br>你所热爱的，就是你的生活<br>你们有幸，遇见这样的时代 | 但时代更有幸，遇见这样的你们</p></blockquote><blockquote><p>我看着你们，满怀敬意 | 向你们的专业态度致敬<br>你们正在把传统的，变成现代的 | 把经典的，变成流行的 | 把学术的，变成大众的 | 把民族的，变成世界的</p></blockquote><blockquote><p>你们把自己的热爱 | 变成了一个和成千上万的人 | 分享快乐的事业</p></blockquote><blockquote><p>向你们的自信致敬 | 弱小的人才习惯嘲讽和否定 | 而内心强大的人从不吝啬赞美和鼓励</p></blockquote><blockquote><p>向你们的大气致敬 | 小人同而不和 | 君子美美与共，和而不同 | 年轻的身体，容得下更多元的文化审美和价值观</p></blockquote><blockquote><p>有一天我终于发现 | 不只是我们在教你们如何生活 | 你们也在启发我们怎样去更好的生活</p></blockquote><blockquote><p>那些抱怨「一代不如一代」的人|应该看看你们|就像我一样|我看着你们，满怀感激<br>因为你们，这个世界会更喜欢中国 | 因为一个国家最好看的风景 | 是这个国家的年轻人<br>因为你们 | 这世上的小说、电影、音乐中表现的青春 | 不再是忧伤、迷茫 | 而是善良、勇敢、无私、无所畏惧 | 是心里有火，眼里有光</p></blockquote><blockquote><p>不用活成我们想象中的样子 | 我们这一代的想象力 | 不足以想象你们的未来<br>如果你们依然需要我们的祝福 | 那么 奔涌吧，后浪 | 我们在同一条奔涌的河流</p></blockquote></span></div>
+
+
+
+
+<div class="hide-block"><a class="hide-button button--primary button--animated" style>我的总结
+    </a><span class="hide-content"><ol><li>前浪不应过多苛责后浪，后浪不用跟随前浪的想象，双方可以一起奋斗、前行。</li><li>我看着你们，满怀：<ul><li>羡慕：<ul><li>拥有人类文明积累下的财富。</li><li>享受现代科技飞速发展的成果。</li><li>拥有自由选择的权利。</li></ul></li><li>敬意：<ul><li>扩大原有文化的适用范围，并推陈出新。</li><li>后浪自信、大气、友善。<del>（别夸了别夸了）</del></li><li>前浪从后浪身上得到了启发。</li></ul></li><li>感激：<ul><li>用青春提升了国家形象，为文学作品注入了青春。<del>（？？？）</del></li></ul></li></ul></li></ol></span></div>
+
+<p>正如许多文章所指出的那样，这篇4分钟左右的演讲，其<strong>实质性内容</strong>的密度比较低。</p>
+<p><strong>我个人觉得</strong>，作为一篇演讲来说无可厚非，毕竟，我认为《后浪》以演讲的形式进行，其目大抵可以分为：</p>
+<ol>
+<li>同长辈和青年人取得共识，产生共鸣。</li>
+<li>激励青年人奋斗。</li>
+<li>呼吁长辈们重新审视青年。</li>
+</ol>
+<p>因为其并不是说理性的文本，关注点往往是在语言的感染力上。<br>所以我认为，<strong>从文本的感染力上来说</strong>，《后浪》可以获得一个很高的分数。</p>
+<p>与此同时，何冰老师对于情感的把控、词句的抑扬顿挫、恰到好处的肢体语言，不得不说，水平很高。</p>
+<p>无论是和善的表情，还是饱满的声音，听下来都没有说教感和故作的姿态感。<br>相反，在他的眼神里，能看到一位长辈对一个后辈的殷切叮咛、轻声嘱托和满怀希冀。</p>
+<p>再有，灯光、背景、视角的切换、服装等等等等，当然都是一流的，完全将观众带入到了一个舒适却不松散、严肃不失和蔼的氛围中，具有极强的感染力。</p>
+<p>最后，我认为，视频所表现所传达的<strong>部分</strong>精神内涵值得推崇。<br>比如：</p>
+<ul>
+<li>后浪：<ol>
+<li>青年应有梦想，努力追寻想要拥有的生活。</li>
+<li>青年应好好利用前人的成果，去探索未知的世界。</li>
+<li>青年应注重选择，注重人际关系等等。<del>（爱国敬业诚信友善）</del></li>
+<li>青年应将青春的活力传递给世界。</li>
+</ol>
+</li>
+<li>前浪：<ol>
+<li>正确认识后辈。</li>
+<li>宽容理解后辈的爱好与行为。</li>
+<li>不能将自己的想法强加于后辈身上。</li>
+<li>鼓励、祝福后辈。</li>
+</ol>
+</li>
+</ul>
+<p>相信有相当一部分青年看过之后，热血沸腾，胸中充满了雄心壮志。<br>但很遗憾，我并没有体会到这样的感觉，因为我对这支视频的了解顺序，并不常规。</p>
+<h1><span id="我了解后浪的历程">我了解《后浪》的历程</span></h1><p>　　最初，一上B站，《后浪》的广告充斥着屏幕，但是我个人并不喜欢这种类型的演讲。倒不是因为我不喜欢演讲，只是他的时间实在太短了，几乎不可能有什么干货。<br>(个人不是很喜欢煽情类的演讲，TED倒是可以考虑考虑。)</p>
+<p>　　所以，我最终一直没有点进去看。</p>
+<p>　　后来，视频开始慢慢在网上发酵，群里讨论逐渐多了起来，也有同学在讨论此事。</p>
+<p>　　我首先看到的是负面的评价，第一印象的确很重要，这导致了最初我对视频的片面理解，当时认为《后浪》是一个失败的作品，甚至，激化了社会矛盾。</p>
+<p>　　当然，<strong>耳听为虚，眼见为实</strong>。我立即去了B站反复观看了三遍《后浪》，阅读了评论，并且观看了其“二创作品”，《前浪》，以及《非浪》。</p>
+<div class="hide-block"><a class="hide-button button--primary button--animated" style>对于《前浪》的观点
+    </a><span class="hide-content"><p>　　我更倾向于《前浪》是梗素材的无意义的剪切，纯粹为了玩梗。</p><p>　　也许作者确实想要表达什么，但以这种方式，恕我愚钝，仅仅只能看出素材本身表现的社会现象，<del>(其中不乏有摆拍）</del>，并不能看出鲜明的内涵或者是讽刺意味。</p><p>　　想要了解《前浪》请移步<a href="https://www.bilibili.com/video/BV1LK4y187Gf" target="_blank" rel="noopener" title="《libilibi献给爷一代的演讲《前浪》">《前浪》</a></p><p>　　（注：作者本人表示是一个娱乐作品。）</p></span></div>
+
+<div class="hide-block"><a class="hide-button button--primary button--animated" style>对于《非浪》的观点
+    </a><span class="hide-content"><p>　　<del>(朱一旦老粉不请自来，吹爆！！！）</del>　<del>（“恁奶奶个腿儿</del>”）~~<br>（由于我粉丝身份的特殊性，可能包含非理性叙述，我尽量客观）</p><p>　　朱一旦的视频，一般是以一个虚构的小故事，通过<strong>反转、夸张、反复</strong>等方式，搞笑的外表下，藏着对时事热点或社会现象的观点，有些具有批判、讽刺的意味。这样将<strong>喜剧、讽刺艺术、短视频、梗一个文化</strong>等结合的作品，其实蛮少见的，这也是我喜欢导演小策团队的主要原因。</p><p>　　《非浪》便是这种艺术形式的又一力作，其几乎指明了反对《后浪》的内容。<del>（或者说，讽刺《后浪》的意味已经快要溢出来了。）</del></p><p>　　“发配非洲”是朱一旦视频系列所创造的核心梗，《非浪》以其为主线，配合一个朱总开玩笑式的发言，和一些夸大化的社畜日常工作镜头片段，优雅不失幽默的表达了对资本压榨员工的讽刺，和对年轻人工作压力大的同情等等其他内容。</p><p>　　全站排行榜第二的《非浪》与第一的《后浪》表现了青年人完全相反的两种状态，《非浪》个中意味，哪一种是更加真实的，不言而喻。</p><p>　　当然，《非浪》包含的，原比我以上说的要更加多，我说的也只是我个人的解读，详情移步<a href="https://www.bilibili.com/video/BV1Sf4y1m7Vs" target="_blank" rel="noopener" title="《非浪》| 朱一旦献给新员工的演讲">《非浪》</a></p></span></div>
+
+
+<h1><span id="困了睡了">困了，睡了。</span></h1>]]></content>
+      <categories>
+        <category>随想录</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+        <tag>观点</tag>
       </tags>
   </entry>
   <entry>
@@ -68,6 +190,24 @@
       </categories>
       <tags>
         <tag>历史</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>前言</title>
+    <url>/pigz2538.github.io/2020/05/04/%E9%A6%96%E8%A8%80/</url>
+    <content><![CDATA[<h1><span id="前言">前言</span></h1><p>1.该合集是日常所思、所想、所感。一定有许多不成熟或者是错误的地方，<strong>但仅仅是个人<span style="border-bottom:2px solid red;">某一个时期里</span>的观点</strong>。<br>2.欢迎不同的思想交流讨论，不欢迎无脑没内容的嘲讽骂街。<br>3.文章一旦发出，除非格式文字错误，否则<strong>不会更改</strong>，以保留当时最真实的思想情况。<br>4.采用<strong>markdown</strong>语法和<strong>LaTeX</strong>进行编辑，尽最大努力保证普适性。<br>5.其他想到再写。</p>
+<p>Q:为什么不写着日记里？<br>A:日记里应该也会保留一份，但分享出来但一般是没有个人隐私内容的，和值得交流的。</p>
+<p>Q:怎么一起交流？<br>A: </p>
+<ul>
+<li>关于我页面找我，推荐QQ，邮件，不推荐微信和Twitter。</li>
+<li>下方评论区。<del>(在搞了在搞了)</del></li>
+</ul>
+]]></content>
+      <categories>
+        <category>随想录</category>
+      </categories>
+      <tags>
+        <tag>开始</tag>
       </tags>
   </entry>
   <entry>
@@ -299,138 +439,14 @@
       </tags>
   </entry>
   <entry>
-    <title>前言</title>
-    <url>/pigz2538.github.io/2020/05/04/%E9%A6%96%E8%A8%80/</url>
-    <content><![CDATA[<h1><span id="前言">前言</span></h1><p>1.该合集是日常所思、所想、所感。一定有许多不成熟或者是错误的地方，<strong>但仅仅是个人<span style="border-bottom:2px solid red;">某一个时期里</span>的观点</strong>。<br>2.欢迎不同的思想交流讨论，不欢迎无脑没内容的嘲讽骂街。<br>3.文章一旦发出，除非格式文字错误，否则<strong>不会更改</strong>，以保留当时最真实的思想情况。<br>4.采用<strong>markdown</strong>语法和<strong>LaTeX</strong>进行编辑，尽最大努力保证普适性。<br>5.其他想到再写。</p>
-<p>Q:为什么不写着日记里？<br>A:日记里应该也会保留一份，但分享出来但一般是没有个人隐私内容的，和值得交流的。</p>
-<p>Q:怎么一起交流？<br>A: </p>
-<ul>
-<li>关于我页面找我，推荐QQ，邮件，不推荐微信和Twitter。</li>
-<li>下方评论区。<del>(在搞了在搞了)</del></li>
-</ul>
-]]></content>
-      <categories>
-        <category>随想录</category>
-      </categories>
-      <tags>
-        <tag>开始</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Html/CSS启蒙</title>
-    <url>/pigz2538.github.io/2020/05/04/Html-CSS%E5%90%AF%E8%92%99/</url>
-    <content><![CDATA[<h1><span id="发现个学习htmlcss的好网站">发现个学习Html/CSS的好网站</span></h1><p>就这个<br><a href="https://www.w3school.com.cn/" target="_blank" rel="noopener">https://www.w3school.com.cn/</a></p>
-<p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504225723.png" alt></p>
-<p>看起来挺爽的，查资料啥的也方便，主要有时候markdown语法和网页渲染冲突啥的，比如<span style="border-bottom:2px solid red;">下划线</span>。</p>
-<div class="hide-block"><a class="hide-button button--primary button--animated" style>如何实现下划线？
-    </a><span class="hide-content"><p>上边这个是这样实现的：<br><code>&lt;span style=&quot;border-bottom:2px solid red;&quot;&gt;下划线&lt;/span&gt;</code></p><p>实际上是巧用了CSS的边框，还有多种可供选择。</p><p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504225719.png" alt></p></span></div>
-
-
-
-]]></content>
-      <categories>
-        <category>收藏</category>
-      </categories>
-      <tags>
-        <tag>学习</tag>
-        <tag>Html</tag>
-        <tag>CSS</tag>
-        <tag>网站推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>从《后浪》谈起</title>
-    <url>/pigz2538.github.io/2020/05/06/%E4%BB%8E%E3%80%8A%E5%90%8E%E6%B5%AA%E3%80%8B%E8%B0%88%E8%B5%B7/</url>
-    <content><![CDATA[<p><del>（先声讨一下现在一直在蚕食我的蚊子）</del></p>
-<p><strong>没看前言的请先看前言！！！</strong><br><strong>没看前言的请先看前言！！！</strong><br><strong>没看前言的请先看前言！！！</strong></p>
-<hr>
-<h1><span id="简单的自我介绍">简单的自我介绍</span></h1><h2><span id="为什么写这个">为什么写这个</span></h2><ul>
-<li><p>我一直认为，在发表自己的看法和意见之前，让大家先对我有一个大概的了解，是不可或缺的。</p>
-</li>
-<li><p>当其他人了解你之后，能够更好的建立起对文章的内容理解，和对观点的思想把控。</p>
-</li>
-<li><p>对于大多数人来说，如果能提前知道对方的学历、家庭条件、性别、年龄等，便能够明白对方是基于一个什么立场上进行思考的，也能更少的、以自己的视角先入为主的，去理解对方写作的内容，减少不必要的误解。</p>
-<p>好比渔人不解插秧，笑其不养鱼反种草；帝王不懂饥寒，问其“何不食肉糜”？<br><del>（自然，这两个比喻不是很恰当）</del></p>
-</li>
-</ul>
-<h2><span id="基本信息">基本信息</span></h2><p>下面是我认为对理解我有帮助的一些信息：</p>
-<ul>
-<li>男 高二理科生。</li>
-<li>三线小城市 高考有压力。</li>
-<li>父母普通百姓。</li>
-<li>对很多事物感兴趣。</li>
-<li>书读的比较少。</li>
-<li>喜欢平淡的生活，傻开心，也向往远方，也有热血，也会伤心，也会迷茫。</li>
-<li>对政治经济社会等的理解，仅限于部分科普读物和课本。</li>
-<li>理性主义，渐变得感性，向往唯心。</li>
-<li>非常中立，讨厌二元论。</li>
-<li>环保问题上倾向于环保，传统与进步之间倾向进步，除此之外，基本中立。</li>
-<li>测试结果是自由主义。</li>
-<li><del>讨厌蚊子。</del></li>
-</ul>
-<p>之前的某一次测试（仅供参考）  ↓<br><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200506235244.jpg" alt></p>
-<h1><span id="提炼后浪">提炼《后浪》</span></h1><p>　　首先，我想将后浪的演讲词进行一番概括，因为我觉得这篇演讲词，煽情似乎占据了不小的部分，而真正的内容输出，并不多。</p>
-<blockquote>
-<p>那些口口声声“一代不如一代”的人 | 应该看着你们 | 就像我一样</p>
-</blockquote>
-<blockquote>
-<p>我看着你们 | 满怀羡慕<br>人类积攒了几千年的财富 | 所有的知识、见识、智慧和艺术 |像是专门为你们准备的礼物<br>科技繁荣、文化繁茂、城市繁华 | 现代文明的成果被层层打开 | 可以尽情享用<br>自由学习一门语言、一门手艺 | 欣赏一部电影、去遥远的地方旅行 | 从小你们就在自由探索自己的兴趣</p>
-</blockquote>
-<blockquote>
-<p>很多人在童年就进入了不惑之年 | 不惑于自己喜欢什么，不喜欢什么<br>人与人之间的壁垒被打破 | 你们只凭相同的爱好 | 就能结交千万个值得干杯的朋友</p>
-</blockquote>
-<blockquote>
-<p>你们拥有了我们曾经梦寐以求的权利 | 选择的权利<br>你所热爱的，就是你的生活<br>你们有幸，遇见这样的时代 | 但时代更有幸，遇见这样的你们</p>
-</blockquote>
-<blockquote>
-<p>我看着你们，满怀敬意 | 向你们的专业态度致敬<br>你们正在把传统的，变成现代的 | 把经典的，变成流行的 | 把学术的，变成大众的 | 把民族的，变成世界的</p>
-</blockquote>
-<blockquote>
-<p>你们把自己的热爱 | 变成了一个和成千上万的人 | 分享快乐的事业</p>
-</blockquote>
-<blockquote>
-<p>向你们的自信致敬 | 弱小的人才习惯嘲讽和否定 | 而内心强大的人从不吝啬赞美和鼓励</p>
-</blockquote>
-<blockquote>
-<p>向你们的大气致敬 | 小人同而不和 | 君子美美与共，和而不同 | 年轻的身体，容得下更多元的文化审美和价值观</p>
-</blockquote>
-<blockquote>
-<p>有一天我终于发现 | 不只是我们在教你们如何生活 | 你们也在启发我们怎样去更好的生活</p>
-</blockquote>
-<blockquote>
-<p>那些抱怨「一代不如一代」的人|应该看看你们|就像我一样|我看着你们，满怀感激<br>因为你们，这个世界会更喜欢中国 | 因为一个国家最好看的风景 | 是这个国家的年轻人<br>因为你们 | 这世上的小说、电影、音乐中表现的青春 | 不再是忧伤、迷茫 | 而是善良、勇敢、无私、无所畏惧 | 是心里有火，眼里有光</p>
-</blockquote>
-<blockquote>
-<p>不用活成我们想象中的样子 | 我们这一代的想象力 | 不足以想象你们的未来<br>如果你们依然需要我们的祝福 | 那么 奔涌吧，后浪 | 我们在同一条奔涌的河流</p>
-</blockquote>
-<p>我的总结如下：<br>1.前浪不应过多苛责后浪，后浪不用跟随前浪的想象，双方可以一起奋斗、前行。<br>2.我看着你们，满怀：<br>    + 羡慕：<br>        * 拥有人类文明积累下的财富。<br>        * 享受现代科技飞速发展的成果。<br>        * 拥有自由选择的权利。<br>    + 敬意：<br>        * 扩大原有文化的适用范围，并推陈出新。<br>        * 后浪自信、大气、友善。<del>（别夸了别夸了）</del><br>        * 前浪应后浪身上得到了启发。<br>    + 感激：<br>        * 用青春提升了国家形象，为文学作品注入了青春。<del>（？？？）</del></p>
-]]></content>
-      <categories>
-        <category>随想录</category>
-      </categories>
-      <tags>
-        <tag>随笔</tag>
-        <tag>观点</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>这里是下午鼓捣图床和编辑器的历程</title>
-    <url>/pigz2538.github.io/2020/05/01/%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%8B%E5%8D%88%E9%BC%93%E6%8D%A3%E5%9B%BE%E5%BA%8A%E5%92%8C%E7%BC%96%E8%BE%91%E5%99%A8%E7%9A%84%E5%8E%86%E7%A8%8B/</url>
-    <content><![CDATA[<p><del>啊，我太难了</del></p>
-<h3><span id="首先我要感谢知乎上的这篇文章">首先我要感谢知乎上的这篇文章：</span></h3><p><a href="https://zhuanlan.zhihu.com/p/69210764/" target="_blank" rel="noopener" title="Markdown编辑器比较">一些Markdown编辑器的比较</a></p>
-<p>原本听说过<strong>VS Code</strong>和<strong>Typora</strong>这两款软件，以及使用过网页端的<strong>马克飞象</strong>和<strong>小书虫</strong>，<br>主要网页端挺方便，还支持$\LaTeX$公式，就没咋研究过编辑器。</p>
-<p>现在有了需求，就开始纠结用啥了，其实原本个人更倾向于<strong>VS Code</strong>，毕竟巨硬的东西看起来就赏心悦目，插件也是非常丰富，但苦于对$\LaTeX$支持不好，配置较为麻烦，遂转为<strong>Typora</strong>。</p>
-<p><del>（其实我对$\TeX$系统语法不是很了解，基本上除了基础语法之外都要查表）</del></p>
-<p>当然以后大学有条有时间折腾的话，应该会考虑转为<strong>VS Code</strong>。<br><del>（才不是因为<strong>VS Code</strong>可以自定义图标背景呢！）</del></p>
-<p>不过咱家的电脑也有点过时，<strong>Typora</strong>整个应用程序都会有点视觉暂留，这绝对是显卡的锅。<br>能用就行，反正香就完事了~</p>
-<h3><span id="接着就是寻找图床">接着就是寻找图床</span></h3><p>非常感谢发达的互联网，已经有许多人分享了自己的经验，为我们这些后辈减少了许多的弯路。<br>经过一番文章对比与分析，作为年收入为负数的我，毅然选择了<strong>PicGo + Github</strong>的方式。</p>
-<p><a href="https://zhuanlan.zhihu.com/p/69210764/" target="_blank" rel="noopener" title="GitHub+PicGo构建免费图床及其高效使用">图床教程1</a><br><a href="https://www.jianshu.com/p/4cd14d4ceb1d/" target="_blank" rel="noopener" title="手把手教你用Typora自动上传到picgo图床【教程与排坑】">图床教程2</a></p>
-<p>这两篇综合起来，还是挺全面的，其它的给我挖了一些坑。<br>（比如PicGo 的 Github 仓库填写以及上传图片时间戳啥的。）</p>
-<p>其中坑包括但不限于：</p>
-<p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200501155723.png" alt="仓库名称前边的用户名" title="仓库名称前边的用户名"></p>
-<p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200501160021.png" alt="图片时间戳防重名" title="图片时间戳防重名"></p>
-<p>对了，顺便一提，图片用的<strong>jsdelivr</strong>的CDN进行加速。</p>
-<p>啊，晚上再进行一些优化吧。</p>
+    <title>换了个主题</title>
+    <url>/pigz2538.github.io/2020/05/02/%E6%8D%A2%E4%BA%86%E4%B8%AA%E4%B8%BB%E9%A2%98/</url>
+    <content><![CDATA[<p>又浪费了一些时间</p>
+<p>主题Butterfly，看起来8错，就是图片啥的明天鼓捣鼓捣换换，加载速度8太彳亍。</p>
+<p>live2d咋都换不了，就只能用这个<del>老婆</del>了，位置啥的还得调节调节。</p>
+<p>为啥啥主题的归档页面都是这啊啊啊啊啊！！！！</p>
+<p>这不能调节:horse:?</p>
+<p>（↑顺便测试一下markdown的emoji）</p>
 ]]></content>
       <categories>
         <category>网站历史</category>
