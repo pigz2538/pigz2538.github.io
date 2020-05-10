@@ -430,7 +430,14 @@
   <entry>
     <title>前言</title>
     <url>/2020/05/04/%E5%89%8D%E8%A8%80/</url>
-    <content><![CDATA[<h1><span id="前言">前言</span></h1><p>1.该合集是日常所思、所想、所感。一定有许多不成熟或者是错误的地方，<strong>但仅仅是个人<span style="border-bottom:2px solid red;">某一个时期里</span>的观点</strong>。<br>2.欢迎不同的思想交流讨论，不欢迎无脑没内容的嘲讽骂街。<br>3.文章一旦发出，除非格式文字错误，否则<strong>不会更改</strong>，以保留当时最真实的思想情况。<br>4.采用<strong>markdown</strong>语法和<strong>LaTeX</strong>进行编辑，尽最大努力保证普适性。<br>5.其他想到再写。</p>
+    <content><![CDATA[<h1><span id="前言">前言</span></h1><ol>
+<li>该合集是日常所思、所想、所感。一定有许多不成熟或者是错误的地方，<strong>但仅仅是个人<span style="border-bottom:2px solid red;">某一个时期里</span>的观点</strong>。</li>
+<li>欢迎不同的思想交流讨论，不欢迎无脑没内容的嘲讽骂街。</li>
+<li>喜欢理性的批评。</li>
+<li>文章一旦发出，除非格式文字错误，否则<strong>不会更改</strong>，以保留当时最真实的思想情况。</li>
+<li>采用<strong>markdown</strong>语法和<strong>LaTeX</strong>进行编辑，尽最大努力保证普适性。</li>
+<li>其他想到再写。</li>
+</ol>
 <p>Q:为什么不写着日记里？<br>A:日记里应该也会保留一份，但分享出来但一般是没有个人隐私内容的，和值得交流的。</p>
 <p>Q:怎么一起交流？<br>A: </p>
 <ul>
@@ -465,31 +472,6 @@
         <tag>Html</tag>
         <tag>CSS</tag>
         <tag>网站推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>前言</title>
-    <url>/2020/05/04/%E9%A6%96%E8%A8%80/</url>
-    <content><![CDATA[<h1><span id="前言">前言</span></h1><ol>
-<li>该合集是日常所思、所想、所感。一定有许多不成熟或者是错误的地方，<strong>但仅仅是个人<span style="border-bottom:2px solid red;">某一个时期里</span>的观点</strong>。</li>
-<li>欢迎不同的思想交流讨论，不欢迎无脑没内容的嘲讽骂街。</li>
-<li>喜欢理性的批评。</li>
-<li>文章一旦发出，除非格式文字错误，否则<strong>不会更改</strong>，以保留当时最真实的思想情况。</li>
-<li>采用<strong>markdown</strong>语法和<strong>LaTeX</strong>进行编辑，尽最大努力保证普适性。</li>
-<li>其他想到再写。</li>
-</ol>
-<p>Q:为什么不写着日记里？<br>A:日记里应该也会保留一份，但分享出来但一般是没有个人隐私内容的，和值得交流的。</p>
-<p>Q:怎么一起交流？<br>A: </p>
-<ul>
-<li>关于我页面找我，推荐QQ，邮件，不推荐微信和Twitter。</li>
-<li>下方评论区。<del>(在搞了在搞了)</del></li>
-</ul>
-]]></content>
-      <categories>
-        <category>随想录</category>
-      </categories>
-      <tags>
-        <tag>开始</tag>
       </tags>
   </entry>
   <entry>
