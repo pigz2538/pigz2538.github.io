@@ -27,6 +27,23 @@
       </tags>
   </entry>
   <entry>
+    <title>换了个主题</title>
+    <url>/2020/05/02/%E6%8D%A2%E4%BA%86%E4%B8%AA%E4%B8%BB%E9%A2%98/</url>
+    <content><![CDATA[<p>又浪费了一些时间</p>
+<p>主题Butterfly，看起来8错，就是图片啥的明天鼓捣鼓捣换换，加载速度8太彳亍。</p>
+<p>live2d咋都换不了，就只能用这个<del>老婆</del>了，位置啥的还得调节调节。</p>
+<p>为啥啥主题的归档页面都是这啊啊啊啊啊！！！！</p>
+<p>这不能调节:horse:?</p>
+<p>（↑顺便测试一下markdown的emoji）</p>
+]]></content>
+      <categories>
+        <category>网站历史</category>
+      </categories>
+      <tags>
+        <tag>历史</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2020/05/01/HelloWorld/</url>
     <content><![CDATA[<blockquote>
@@ -50,23 +67,6 @@
 <p>对了测试一下LaTeX</p>
 <p>$$ \LaTeX $$<br>$$ e^{i \pi} + 1 = 0 $$</p>
 <p>晚安！</p>
-]]></content>
-      <categories>
-        <category>网站历史</category>
-      </categories>
-      <tags>
-        <tag>历史</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>换了个主题</title>
-    <url>/2020/05/02/%E6%8D%A2%E4%BA%86%E4%B8%AA%E4%B8%BB%E9%A2%98/</url>
-    <content><![CDATA[<p>又浪费了一些时间</p>
-<p>主题Butterfly，看起来8错，就是图片啥的明天鼓捣鼓捣换换，加载速度8太彳亍。</p>
-<p>live2d咋都换不了，就只能用这个<del>老婆</del>了，位置啥的还得调节调节。</p>
-<p>为啥啥主题的归档页面都是这啊啊啊啊啊！！！！</p>
-<p>这不能调节:horse:?</p>
-<p>（↑顺便测试一下markdown的emoji）</p>
 ]]></content>
       <categories>
         <category>网站历史</category>
@@ -376,7 +376,7 @@
 <blockquote>
 <p>基尼指数最早由意大利统计与社会学家Corrado Gini在1912年提出。</p>
 </blockquote>
-<p><del>（如果做过2020四月郑州市二测理数的可以去看看第6题。）</del></p>
+<p><del>（如果做过2020四月郑州市二测理数的可以去看看第8题。）</del></p>
 <div class="hide-block"><a class="hide-button button--primary button--animated" style>题目
     </a><span class="hide-content"><p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200510212311.jpg" alt></p></span></div>
 
@@ -389,7 +389,7 @@
 <h3><span id="专业大佬的解读">专业大佬的解读</span></h3><p><a href="https://www.zhihu.com/question/292060598/answer/480718053" target="_blank" rel="noopener" title="基尼系数">中国的基尼系数是多少？</a></p>
 <p>我在我的博客上也搬运一下，<strong>该文作者知乎用户 @Minamoto</strong></p>
 <div class="hide-block"><a class="hide-button button--primary button--animated" style>中国的基尼系数有多少？
-    </a><span class="hide-content"><p><a href="https://jd6w3w.coding-pages.com/2020/05/09/%E3%80%8A%E5%85%B1%E4%BA%A7%E5%85%9A%E5%AE%A3%E8%A8%80%E3%80%8B/" target="_blank" rel="noopener" title="转载：中国的基尼系数是多少？">Pilog</a></p></span></div>
+    </a><span class="hide-content"><p><a href="https://jd6w3w.coding-pages.com/2020/05/10/%E8%BD%AC%E8%BD%BD%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9F%BA%E5%B0%BC%E7%B3%BB%E6%95%B0%E6%98%AF%E5%A4%9A%E5%B0%91%EF%BC%9F/" target="_blank" rel="noopener" title="转载：中国的基尼系数是多少？">Pilog</a></p></span></div>
 
 <p>　　由于西南财经大学的中国家庭金融调查与研究中心（CHFS）获取数据需要注册并审核，我的账号目前还处于审核状态，如果日后成功了，我会把数据搬运过来。</p>
 <p><del>（他让我填我的专业我填个无，8清楚能不能过。）</del></p>
@@ -425,6 +425,100 @@
       <tags>
         <tag>随笔</tag>
         <tag>观点</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>前言</title>
+    <url>/2020/05/04/%E5%89%8D%E8%A8%80/</url>
+    <content><![CDATA[<h1><span id="前言">前言</span></h1><p>1.该合集是日常所思、所想、所感。一定有许多不成熟或者是错误的地方，<strong>但仅仅是个人<span style="border-bottom:2px solid red;">某一个时期里</span>的观点</strong>。<br>2.欢迎不同的思想交流讨论，不欢迎无脑没内容的嘲讽骂街。<br>3.文章一旦发出，除非格式文字错误，否则<strong>不会更改</strong>，以保留当时最真实的思想情况。<br>4.采用<strong>markdown</strong>语法和<strong>LaTeX</strong>进行编辑，尽最大努力保证普适性。<br>5.其他想到再写。</p>
+<p>Q:为什么不写着日记里？<br>A:日记里应该也会保留一份，但分享出来但一般是没有个人隐私内容的，和值得交流的。</p>
+<p>Q:怎么一起交流？<br>A: </p>
+<ul>
+<li>关于我页面找我，推荐QQ，邮件，不推荐微信和Twitter。</li>
+<li>下方评论区。<del>(在搞了在搞了)</del></li>
+</ul>
+]]></content>
+      <categories>
+        <category>随想录</category>
+      </categories>
+      <tags>
+        <tag>开始</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Html/CSS启蒙</title>
+    <url>/2020/05/04/Html-CSS%E5%90%AF%E8%92%99/</url>
+    <content><![CDATA[<h1><span id="发现个学习htmlcss的好网站">发现个学习Html/CSS的好网站</span></h1><p>就这个<br><a href="https://www.w3school.com.cn/" target="_blank" rel="noopener">https://www.w3school.com.cn/</a></p>
+<p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504225723.png" alt></p>
+<p>看起来挺爽的，查资料啥的也方便，主要有时候markdown语法和网页渲染冲突啥的，比如<span style="border-bottom:2px solid red;">下划线</span>。</p>
+<div class="hide-block"><a class="hide-button button--primary button--animated" style>如何实现下划线？
+    </a><span class="hide-content"><p>上边这个是这样实现的：<br><code>&lt;span style=&quot;border-bottom:2px solid red;&quot;&gt;下划线&lt;/span&gt;</code></p><p>实际上是巧用了CSS的边框，还有多种可供选择。</p><p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504225719.png" alt></p></span></div>
+
+
+
+]]></content>
+      <categories>
+        <category>收藏</category>
+      </categories>
+      <tags>
+        <tag>学习</tag>
+        <tag>Html</tag>
+        <tag>CSS</tag>
+        <tag>网站推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>前言</title>
+    <url>/2020/05/04/%E9%A6%96%E8%A8%80/</url>
+    <content><![CDATA[<h1><span id="前言">前言</span></h1><ol>
+<li>该合集是日常所思、所想、所感。一定有许多不成熟或者是错误的地方，<strong>但仅仅是个人<span style="border-bottom:2px solid red;">某一个时期里</span>的观点</strong>。</li>
+<li>欢迎不同的思想交流讨论，不欢迎无脑没内容的嘲讽骂街。</li>
+<li>喜欢理性的批评。</li>
+<li>文章一旦发出，除非格式文字错误，否则<strong>不会更改</strong>，以保留当时最真实的思想情况。</li>
+<li>采用<strong>markdown</strong>语法和<strong>LaTeX</strong>进行编辑，尽最大努力保证普适性。</li>
+<li>其他想到再写。</li>
+</ol>
+<p>Q:为什么不写着日记里？<br>A:日记里应该也会保留一份，但分享出来但一般是没有个人隐私内容的，和值得交流的。</p>
+<p>Q:怎么一起交流？<br>A: </p>
+<ul>
+<li>关于我页面找我，推荐QQ，邮件，不推荐微信和Twitter。</li>
+<li>下方评论区。<del>(在搞了在搞了)</del></li>
+</ul>
+]]></content>
+      <categories>
+        <category>随想录</category>
+      </categories>
+      <tags>
+        <tag>开始</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>博客部署到Coding</title>
+    <url>/2020/05/10/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E5%88%B0Coding/</url>
+    <content><![CDATA[<h1><span id="主要github有点慢">主要github有点慢</span></h1><p>写《后浪》评论文章时候感觉github好慢啊啊啊啊，<br>于是就把部署到Coding提上日程了，现在是双线部署。</p>
+<p>主要看的这篇文章：<a href="https://cloud.tencent.com/developer/article/1580237" target="_blank" rel="noopener" title="Hexo博客部署到码云和Coding">部署Coding</a></p>
+<p>挺详细的，但也有差错。<br>遇到的坑有：</p>
+<ol>
+<li>静态网站需要实名认证，文章没说。</li>
+<li>我之前Github居然没搞ssh公钥，惊了，就输入了 <code>ssh-keygen -o</code> 啥的。</li>
+<li>文章中有句话<blockquote>
+<p>然后打开<code>cmd</code>控制台输入<code>ssh -T git@git.coding.net</code><br>实际上应该是 <code>git@[username].coding.net</code></p>
+</blockquote>
+</li>
+</ol>
+<p>比如我的</p>
+<blockquote>
+<p>ssh -T <a href="mailto:git@pigz2538.coding.net">git@pigz2538.coding.net</a></p>
+</blockquote>
+<ol start="4">
+<li>把<code>_config.yml</code>的<code>root</code>从 <code>/pigz2538.github.io/</code> 改成<code>/</code> ，CSS便可以正常加载了。</li>
+</ol>
+]]></content>
+      <categories>
+        <category>网站历史</category>
+      </categories>
+      <tags>
+        <tag>历史</tag>
       </tags>
   </entry>
   <entry>
@@ -656,24 +750,6 @@
       </tags>
   </entry>
   <entry>
-    <title>前言</title>
-    <url>/2020/05/04/%E5%89%8D%E8%A8%80/</url>
-    <content><![CDATA[<h1><span id="前言">前言</span></h1><p>1.该合集是日常所思、所想、所感。一定有许多不成熟或者是错误的地方，<strong>但仅仅是个人<span style="border-bottom:2px solid red;">某一个时期里</span>的观点</strong>。<br>2.欢迎不同的思想交流讨论，不欢迎无脑没内容的嘲讽骂街。<br>3.文章一旦发出，除非格式文字错误，否则<strong>不会更改</strong>，以保留当时最真实的思想情况。<br>4.采用<strong>markdown</strong>语法和<strong>LaTeX</strong>进行编辑，尽最大努力保证普适性。<br>5.其他想到再写。</p>
-<p>Q:为什么不写着日记里？<br>A:日记里应该也会保留一份，但分享出来但一般是没有个人隐私内容的，和值得交流的。</p>
-<p>Q:怎么一起交流？<br>A: </p>
-<ul>
-<li>关于我页面找我，推荐QQ，邮件，不推荐微信和Twitter。</li>
-<li>下方评论区。<del>(在搞了在搞了)</del></li>
-</ul>
-]]></content>
-      <categories>
-        <category>随想录</category>
-      </categories>
-      <tags>
-        <tag>开始</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>转载：中国的基尼系数是多少？</title>
     <url>/2020/05/10/%E8%BD%AC%E8%BD%BD%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9F%BA%E5%B0%BC%E7%B3%BB%E6%95%B0%E6%98%AF%E5%A4%9A%E5%B0%91%EF%BC%9F/</url>
     <content><![CDATA[<p>觉得这篇文章写得挺好的，转载一下。<br>原作地址： <a href="https://www.zhihu.com/question/292060598/answer/480718053" target="_blank" rel="noopener" title="基尼系数">中国的基尼系数是多少？</a></p>
@@ -774,82 +850,6 @@
       <tags>
         <tag>学习</tag>
         <tag>文章</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Html/CSS启蒙</title>
-    <url>/2020/05/04/Html-CSS%E5%90%AF%E8%92%99/</url>
-    <content><![CDATA[<h1><span id="发现个学习htmlcss的好网站">发现个学习Html/CSS的好网站</span></h1><p>就这个<br><a href="https://www.w3school.com.cn/" target="_blank" rel="noopener">https://www.w3school.com.cn/</a></p>
-<p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504225723.png" alt></p>
-<p>看起来挺爽的，查资料啥的也方便，主要有时候markdown语法和网页渲染冲突啥的，比如<span style="border-bottom:2px solid red;">下划线</span>。</p>
-<div class="hide-block"><a class="hide-button button--primary button--animated" style>如何实现下划线？
-    </a><span class="hide-content"><p>上边这个是这样实现的：<br><code>&lt;span style=&quot;border-bottom:2px solid red;&quot;&gt;下划线&lt;/span&gt;</code></p><p>实际上是巧用了CSS的边框，还有多种可供选择。</p><p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504225719.png" alt></p></span></div>
-
-
-
-]]></content>
-      <categories>
-        <category>收藏</category>
-      </categories>
-      <tags>
-        <tag>学习</tag>
-        <tag>Html</tag>
-        <tag>CSS</tag>
-        <tag>网站推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>前言</title>
-    <url>/2020/05/04/%E9%A6%96%E8%A8%80/</url>
-    <content><![CDATA[<h1><span id="前言">前言</span></h1><ol>
-<li>该合集是日常所思、所想、所感。一定有许多不成熟或者是错误的地方，<strong>但仅仅是个人<span style="border-bottom:2px solid red;">某一个时期里</span>的观点</strong>。</li>
-<li>欢迎不同的思想交流讨论，不欢迎无脑没内容的嘲讽骂街。</li>
-<li>喜欢理性的批评。</li>
-<li>文章一旦发出，除非格式文字错误，否则<strong>不会更改</strong>，以保留当时最真实的思想情况。</li>
-<li>采用<strong>markdown</strong>语法和<strong>LaTeX</strong>进行编辑，尽最大努力保证普适性。</li>
-<li>其他想到再写。</li>
-</ol>
-<p>Q:为什么不写着日记里？<br>A:日记里应该也会保留一份，但分享出来但一般是没有个人隐私内容的，和值得交流的。</p>
-<p>Q:怎么一起交流？<br>A: </p>
-<ul>
-<li>关于我页面找我，推荐QQ，邮件，不推荐微信和Twitter。</li>
-<li>下方评论区。<del>(在搞了在搞了)</del></li>
-</ul>
-]]></content>
-      <categories>
-        <category>随想录</category>
-      </categories>
-      <tags>
-        <tag>开始</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>博客部署到Coding</title>
-    <url>/2020/05/10/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E5%88%B0Coding/</url>
-    <content><![CDATA[<h1><span id="主要github有点慢">主要github有点慢</span></h1><p>写《后浪》评论文章时候感觉github好慢啊啊啊啊，<br>于是就把部署到Coding提上日程了，现在是双线部署。</p>
-<p>主要看的这篇文章：<a href="https://cloud.tencent.com/developer/article/1580237" target="_blank" rel="noopener" title="Hexo博客部署到码云和Coding">部署Coding</a></p>
-<p>挺详细的，但也有差错。<br>遇到的坑有：</p>
-<ol>
-<li>静态网站需要实名认证，文章没说。</li>
-<li>我之前Github居然没搞ssh公钥，惊了，就输入了 <code>ssh-keygen -o</code> 啥的。</li>
-<li>文章中有句话<blockquote>
-<p>然后打开<code>cmd</code>控制台输入<code>ssh -T git@git.coding.net</code><br>实际上应该是 <code>git@[username].coding.net</code></p>
-</blockquote>
-</li>
-</ol>
-<p>比如我的</p>
-<blockquote>
-<p>ssh -T <a href="mailto:git@pigz2538.coding.net">git@pigz2538.coding.net</a></p>
-</blockquote>
-<ol start="4">
-<li>把<code>_config.yml</code>的<code>root</code>从 <code>/pigz2538.github.io/</code> 改成<code>/</code> ，CSS便可以正常加载了。</li>
-</ol>
-]]></content>
-      <categories>
-        <category>网站历史</category>
-      </categories>
-      <tags>
-        <tag>历史</tag>
       </tags>
   </entry>
 </search>
