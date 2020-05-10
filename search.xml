@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/2020/05/01/HelloWorld/</url>
+    <content><![CDATA[<blockquote>
+<p>It’s 2:30 a.m. now.</p>
+</blockquote>
+<h1><span id="我快废了啊啊啊啊啊">我快废了啊啊啊啊啊</span></h1><span class="hide-inline"><a class="hide-button button--primary button--animated" style="background-color:  #66CCFF ;color:  #fff">封面图 
+  </a><span class="hide-content">动漫《Hello World》，没看过，打算看。（立个flag，看看我啥时候才去看）</span></span>
+
+
+<ul>
+<li>github各种刁难我<del>（gtmd github）</del>，包括但不限于：<ul>
+<li>邮箱突然让验证</li>
+<li>九点多十点多十一点多发的验证邮件，我<strong>1：46</strong>才收到三封邮件！</li>
+<li>下载速度龟速，网上找了个hosts改了改直接变成0了！<br><del>（好吧上面这条是我傻）</del></li>
+</ul>
+</li>
+</ul>
+<p>我等邮件时候各种搜索询问啊！！！我以为我账户有问题收不到邮件呢！</p>
+<hr>
+<p>算了算了，爬去睡觉了，再不睡猝死了。<br>明天改改配色布局啥的<br>找个markdown编辑器，弄个图床就够了。</p>
+<p>对了测试一下LaTeX</p>
+<p>$$ \LaTeX $$<br>$$ e^{i \pi} + 1 = 0 $$</p>
+<p>晚安！</p>
+]]></content>
+      <categories>
+        <category>网站历史</category>
+      </categories>
+      <tags>
+        <tag>历史</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>这里是下午鼓捣图床和编辑器的历程</title>
     <url>/2020/05/01/%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%8B%E5%8D%88%E9%BC%93%E6%8D%A3%E5%9B%BE%E5%BA%8A%E5%92%8C%E7%BC%96%E8%BE%91%E5%99%A8%E7%9A%84%E5%8E%86%E7%A8%8B/</url>
     <content><![CDATA[<p><del>啊，我太难了</del></p>
@@ -65,10 +97,29 @@
       </tags>
   </entry>
   <entry>
+    <title>前言</title>
+    <url>/2020/05/04/%E9%A6%96%E8%A8%80/</url>
+    <content><![CDATA[<h1><span id="前言">前言</span></h1><p>1.该合集是日常所思、所想、所感。一定有许多不成熟或者是错误的地方，<strong>但仅仅是个人<span style="border-bottom:2px solid red;">某一个时期里</span>的观点</strong>。<br>2.欢迎不同的思想交流讨论，不欢迎无脑没内容的嘲讽骂街。<br>3.文章一旦发出，除非格式文字错误，否则<strong>不会更改</strong>，以保留当时最真实的思想情况。<br>4.采用<strong>markdown</strong>语法和<strong>LaTeX</strong>进行编辑，尽最大努力保证普适性。<br>5.其他想到再写。</p>
+<p>Q:为什么不写着日记里？<br>A:日记里应该也会保留一份，但分享出来但一般是没有个人隐私内容的，和值得交流的。</p>
+<p>Q:怎么一起交流？<br>A: </p>
+<ul>
+<li>关于我页面找我，推荐QQ，邮件，不推荐微信和Twitter。</li>
+<li>下方评论区。<del>(在搞了在搞了)</del></li>
+</ul>
+]]></content>
+      <categories>
+        <category>随想录</category>
+      </categories>
+      <tags>
+        <tag>开始</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>从《后浪》谈起</title>
     <url>/2020/05/06/%E4%BB%8E%E3%80%8A%E5%90%8E%E6%B5%AA%E3%80%8B%E8%B0%88%E8%B5%B7/</url>
     <content><![CDATA[<p><del>（先声讨一下现在一直在蚕食我的蚊子）</del></p>
 <p><strong>没看前言的请先看前言！！！</strong><br><strong>没看前言的请先看前言！！！</strong><br><strong>没看前言的请先看前言！！！</strong></p>
+<p>缓更文章，以后还会继续补充。<br><del>咕咕咕</del></p>
 <p>《后浪》视频地址：<a href="https://www.bilibili.com/video/BV1FV411d7u7" target="_blank" rel="noopener" title="bilibili献给新一代的演讲《后浪》">《后浪》</a></p>
 <hr>
 <h1><span id="简单的自我介绍">简单的自我介绍</span></h1><h2><span id="为什么写这个">为什么写这个</span></h2><ul>
@@ -197,16 +248,60 @@
 <li><a href="https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/global-wealth-report-2019-en.pdf" target="_blank" rel="noopener" title="瑞信研究院">全球财富报告.pdf</a></li>
 </ul>
 <p>　　从上述数据可以看出，无论是城镇居民还是农村居民，除去生活必需品，剩下的发展或是享受资料消费（文化、娱乐、服务等），虽然从上个世纪以来已经增长了许多，但平均仍在1000-3000元左右。</p>
-<p>　　观察收入占比，我们能够发现，绝大多数人一年内的收入几乎无法支付的起视频中所说的任何一项内容，只有约10%左右的富裕人群，才有机会享受到视频中提到的“时代繁荣、城市繁华、现代文明的成果被层层打开。”</p>
-<p>　　这不得不说是视频的一大败笔，作为五四主题视频，在各大平台进行宣传的视频，忽视掉这么严重的问题，是很可怕的。其所表现的五彩缤纷几乎与社会实际割裂开来，即使视频本身没有说教感和压迫感，但确实是以前浪的视角来看待后浪，并没有真真切切了解青年的问题和诉求，对于青年一代的生活现状也并没有良好的表现。</p>
+<p>　　观察收入占比，我们能够发现，绝大多数人一年内的收入几乎无法支付的起视频中所说的<strong>任何一项内容</strong>，只有约10%左右的富裕人群，才有机会享受到视频中提到的“科技繁荣、文化繁茂、城市繁华，现代文明的成果被层层打开。”</p>
+<p>　　这不得不说是视频的一大败笔，<strong>作为五四主题视频</strong>，在各大平台进行宣传的视频，忽视掉这么严重的问题，是很可怕的。其所表现的五彩缤纷几乎与社会实际割裂开来，即使视频本身没有说教感和压迫感，但确实是以前浪的视角来看待后浪，并没有真真切切了解<strong>青年的问题和诉求</strong>，对于青年一代的生活现状也并没有良好的表现。</p>
 <p>　　有人说</p>
 <blockquote>
 <p>我想后浪的意思是我们时代拥有很多的资源，网络的发达拓宽了我们的视野，为我们提供了更多的可能性，而不是说时代就可以让所有人都过上衣食无忧，自由自在的生活，这种生活还是需要自己去创造。</p>
 </blockquote>
-<p>　　我同意该观点的合理性，毕竟每个人都有自己的解读。但是就我个人而言，我是略微反对这种观点的，视频中有这样一个片段：</p>
+<p>　　我同意该观点的<strong>合理性</strong>，毕竟每个人都有自己的解读。但是就我个人而言，我是略微反对这种观点的，视频中有这样一个片段：</p>
 <p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200510163252.jpg" alt></p>
-<p>（注：此句原话为<code>你所热爱的，就是你的生活。</code>，但画面正好是这样的）<br>　　纵观整支视频，似乎并没有提到类似的可能性，而仅仅说<code>很多人</code>，至于这个<code>很多人</code>究竟占了多少？我想，大家心中已经有了各自的答案。</p>
-<h2><span id="缺少五四精神">缺少五四精神</span></h2><h2><span id="过于注重情感">过于注重情感</span></h2>]]></content>
+<p>（注：此句原话为<code>你所热爱的，就是你的生活。</code>，但画面正好是这样的）<br>　　纵观整支视频，似乎并没有提到类似的可能性，而仅仅说<code>很多人</code>，至于这个<code>很多人</code>究竟占了多少？我想，大家心中已经有了<strong>各自的答案</strong>。</p>
+<h2><span id="缺少五四精神">缺少五四精神</span></h2><p>先来看一下五四精神是什么：</p>
+<blockquote>
+<p>五四精神，是指五四运动中的精神，即：忧国忧民、热爱祖国、积极创新、探索科学的爱国主义精神。<br>五四精神的核心内容为“爱国、进步、民主、科学”。</p>
+</blockquote>
+<p>五四精神表现为以下四个统一：</p>
+<ol>
+<li>启蒙与救亡的自觉广泛的统一；</li>
+<li>知识分子与劳动群众的统一；</li>
+<li>刻苦耐劳的精神与进取创新的精神的统一；</li>
+<li>独立自主的精神与无私奉献精神的统一。</li>
+</ol>
+<p>当代爱国主义又为五四精神注入了新的精神内核与价值述求：</p>
+<ol>
+<li>在国际交往日益频繁、全球化不可逆转的浪潮中，维护我们的国家利益和民族利益；</li>
+<li>在中国发展世人瞩目的背景下，寻求我们国家在世界上全新的定位和方向；</li>
+<li>在对外开放交往日益扩大的现实中，探讨构成我们民族精神、民族性格的新内容。</li>
+</ol>
+<p>那么视频又表现了那些五四精神呢？</p>
+<ul>
+<li>积极创新</li>
+<li>进步</li>
+<li>科学</li>
+<li>爱国</li>
+</ul>
+<p>　　显而易见，许多重要的精神被淡化了，甚至根本毫无体现。强调积极向上的一面固然没有问题，但如果以批判角度看待，难道不应该有<strong>刻苦耐劳、努力奋斗</strong>的精神么？纵观整个视频，只有一句话“奔涌吧！后浪！”。这句话更多的，应解释为前进，仍然不是强调奋斗。</p>
+<p>　　是的，<code>科技繁荣、文化繁茂、城市繁华，现代文明的成果被层层打开。</code>，我们所处的时代，比以往任何一个时候都更加发达，更加自动化。可是，这<strong>并不代表</strong>我们不需要这种精神，我们不需要吃苦，不需要奋发图强。相反，我们比以往任何一个时候都更需要奋斗，更需要学会吃苦。</p>
+<p>　　<strong>生于忧患，死于安乐。</strong>在当下，我们不能一昧的生活在父母带给我们舒适的环境，如同温室里的幼苗，溺于安详之中。<strong>困于心，衡于虑，而后作；征于色，发于声，而后喻。</strong>什么是<strong>居安思危</strong>，什么是<strong>警钟长鸣</strong>，什么是<strong>忧劳可以兴国，逸豫可以亡身</strong>，我想，每个人心里都很清楚。</p>
+<p>　　毛主席曾在《两个中国之命运》中写到：</p>
+<blockquote>
+<p>中国的革命是伟大的，但革命以后的路程更长，工作更伟大，更艰苦。这一点现在就必须向党内讲明白，务必使同志们继续地保持谦虚、谨慎、不骄、不躁的作风，务必使同志们继续地保持艰苦奋斗的作风。</p>
+</blockquote>
+<p>　　邓小平在《目前的形势和任务》(1980年1月16日)中写到：</p>
+<blockquote>
+<p>　艰苦奋斗是我们的传统，艰苦朴素的教育今后要抓紧，一直要抓六十至七十年。我们的国家越发展，越要抓艰苦创业。提倡艰苦创业精神，也有助于克服腐败现象。</p>
+</blockquote>
+<p>　　江泽民在为西柏坡题词(1991年9月21日)中写到：</p>
+<blockquote>
+<p>我们党和军队是靠艰苦奋斗起家的，也是靠艰苦奋斗不断发展壮大起来的。今天我们搞社会主义现代化建设，同样要靠艰苦奋斗。因为搞工业现代化、农业现代化、科技现代化、国防现代化，仍然是一个需要付出百倍努力的艰苦创业的历史过程。一个国家、一个民族、一个军队，如果不提倡艰苦奋斗、艰苦创业，只想在前人创造的物质文化成果上坐享其成，满脑子是金钱万能，成天贪图享乐，那末，这样的国家、这样的民族、这样的军队，是毫无希望的，是没有不衰落和不垮台的。“历览前贤国与家，成由勤俭破由奢”，大家都要深刻地理解这个真理。</p>
+</blockquote>
+<p>　　习主席也曾在对“不忘初心，牢记使命”的解读中谈到：</p>
+<blockquote>
+<p>我们千万不能在一片喝彩声、赞扬声中丧失革命精神和斗志，逐渐陷入安于现状、不思进取、贪图享乐的状态，而是要牢记船到中流浪更急、人到半山路更陡，把不忘初心、牢记使命作为加强党的建设的永恒课题，作为全体党员、干部的终身课题。</p>
+</blockquote>
+<p>　　这些不仅仅适用于党员，青年也同样适用。如果接受了视频中<strong>可能存在</strong>的享乐主义，认为我们这个时代极为发达，而待在自己的舒适圈不跳出去的话，便失去了五四青年节存在的意义。中华民族的伟大复兴，也就无从谈起了。</p>
+<h2><span id="过于注重情感">过于注重情感</span></h2>]]></content>
       <categories>
         <category>随想录</category>
       </categories>
@@ -216,29 +311,48 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/05/01/HelloWorld/</url>
-    <content><![CDATA[<blockquote>
-<p>It’s 2:30 a.m. now.</p>
+    <title>Html/CSS启蒙</title>
+    <url>/2020/05/04/Html-CSS%E5%90%AF%E8%92%99/</url>
+    <content><![CDATA[<h1><span id="发现个学习htmlcss的好网站">发现个学习Html/CSS的好网站</span></h1><p>就这个<br><a href="https://www.w3school.com.cn/" target="_blank" rel="noopener">https://www.w3school.com.cn/</a></p>
+<p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504225723.png" alt></p>
+<p>看起来挺爽的，查资料啥的也方便，主要有时候markdown语法和网页渲染冲突啥的，比如<span style="border-bottom:2px solid red;">下划线</span>。</p>
+<div class="hide-block"><a class="hide-button button--primary button--animated" style>如何实现下划线？
+    </a><span class="hide-content"><p>上边这个是这样实现的：<br><code>&lt;span style=&quot;border-bottom:2px solid red;&quot;&gt;下划线&lt;/span&gt;</code></p><p>实际上是巧用了CSS的边框，还有多种可供选择。</p><p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504225719.png" alt></p></span></div>
+
+
+
+]]></content>
+      <categories>
+        <category>收藏</category>
+      </categories>
+      <tags>
+        <tag>学习</tag>
+        <tag>Html</tag>
+        <tag>CSS</tag>
+        <tag>网站推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>博客部署到Coding</title>
+    <url>/2020/05/10/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E5%88%B0Coding/</url>
+    <content><![CDATA[<h1><span id="主要github有点慢">主要github有点慢</span></h1><p>写《后浪》评论文章时候感觉github好慢啊啊啊啊，<br>于是就把部署到Coding提上日程了，现在是双线部署。</p>
+<p>主要看的这篇文章：<a href="https://cloud.tencent.com/developer/article/1580237" target="_blank" rel="noopener" title="Hexo博客部署到码云和Coding">部署Coding</a></p>
+<p>挺详细的，但也有差错。<br>遇到的坑有：</p>
+<ol>
+<li>静态网站需要实名认证，文章没说。</li>
+<li>我之前Github居然没搞ssh公钥，惊了，就输入了 <code>ssh-keygen -o</code> 啥的。</li>
+<li>文章中有句话<blockquote>
+<p>然后打开<code>cmd</code>控制台输入<code>ssh -T git@git.coding.net</code><br>实际上应该是 <code>git@[username].coding.net</code></p>
 </blockquote>
-<h1><span id="我快废了啊啊啊啊啊">我快废了啊啊啊啊啊</span></h1><span class="hide-inline"><a class="hide-button button--primary button--animated" style="background-color:  #66CCFF ;color:  #fff">封面图 
-  </a><span class="hide-content">动漫《Hello World》，没看过，打算看。（立个flag，看看我啥时候才去看）</span></span>
-
-
-<ul>
-<li>github各种刁难我<del>（gtmd github）</del>，包括但不限于：<ul>
-<li>邮箱突然让验证</li>
-<li>九点多十点多十一点多发的验证邮件，我<strong>1：46</strong>才收到三封邮件！</li>
-<li>下载速度龟速，网上找了个hosts改了改直接变成0了！<br><del>（好吧上面这条是我傻）</del></li>
-</ul>
 </li>
-</ul>
-<p>我等邮件时候各种搜索询问啊！！！我以为我账户有问题收不到邮件呢！</p>
-<hr>
-<p>算了算了，爬去睡觉了，再不睡猝死了。<br>明天改改配色布局啥的<br>找个markdown编辑器，弄个图床就够了。</p>
-<p>对了测试一下LaTeX</p>
-<p>$$ \LaTeX $$<br>$$ e^{i \pi} + 1 = 0 $$</p>
-<p>晚安！</p>
+</ol>
+<p>比如我的</p>
+<blockquote>
+<p>ssh -T <a href="mailto:git@pigz2538.coding.net">git@pigz2538.coding.net</a></p>
+</blockquote>
+<ol start="4">
+<li>把<code>_config.yml</code>的<code>root</code>从 <code>/pigz2538.github.io/</code> 改成<code>/</code> ，CSS便可以正常加载了。</li>
+</ol>
 ]]></content>
       <categories>
         <category>网站历史</category>
@@ -473,75 +587,6 @@
       <tags>
         <tag>文献</tag>
         <tag>共产主义</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>前言</title>
-    <url>/2020/05/04/%E9%A6%96%E8%A8%80/</url>
-    <content><![CDATA[<h1><span id="前言">前言</span></h1><p>1.该合集是日常所思、所想、所感。一定有许多不成熟或者是错误的地方，<strong>但仅仅是个人<span style="border-bottom:2px solid red;">某一个时期里</span>的观点</strong>。<br>2.欢迎不同的思想交流讨论，不欢迎无脑没内容的嘲讽骂街。<br>3.文章一旦发出，除非格式文字错误，否则<strong>不会更改</strong>，以保留当时最真实的思想情况。<br>4.采用<strong>markdown</strong>语法和<strong>LaTeX</strong>进行编辑，尽最大努力保证普适性。<br>5.其他想到再写。</p>
-<p>Q:为什么不写着日记里？<br>A:日记里应该也会保留一份，但分享出来但一般是没有个人隐私内容的，和值得交流的。</p>
-<p>Q:怎么一起交流？<br>A: </p>
-<ul>
-<li>关于我页面找我，推荐QQ，邮件，不推荐微信和Twitter。</li>
-<li>下方评论区。<del>(在搞了在搞了)</del></li>
-</ul>
-]]></content>
-      <categories>
-        <category>随想录</category>
-      </categories>
-      <tags>
-        <tag>开始</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Html/CSS启蒙</title>
-    <url>/2020/05/04/Html-CSS%E5%90%AF%E8%92%99/</url>
-    <content><![CDATA[<h1><span id="发现个学习htmlcss的好网站">发现个学习Html/CSS的好网站</span></h1><p>就这个<br><a href="https://www.w3school.com.cn/" target="_blank" rel="noopener">https://www.w3school.com.cn/</a></p>
-<p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504225723.png" alt></p>
-<p>看起来挺爽的，查资料啥的也方便，主要有时候markdown语法和网页渲染冲突啥的，比如<span style="border-bottom:2px solid red;">下划线</span>。</p>
-<div class="hide-block"><a class="hide-button button--primary button--animated" style>如何实现下划线？
-    </a><span class="hide-content"><p>上边这个是这样实现的：<br><code>&lt;span style=&quot;border-bottom:2px solid red;&quot;&gt;下划线&lt;/span&gt;</code></p><p>实际上是巧用了CSS的边框，还有多种可供选择。</p><p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504225719.png" alt></p></span></div>
-
-
-
-]]></content>
-      <categories>
-        <category>收藏</category>
-      </categories>
-      <tags>
-        <tag>学习</tag>
-        <tag>Html</tag>
-        <tag>CSS</tag>
-        <tag>网站推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>博客部署到Coding</title>
-    <url>/2020/05/10/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E5%88%B0Coding/</url>
-    <content><![CDATA[<h1><span id="主要github有点慢">主要github有点慢</span></h1><p>写《后浪》评论文章时候感觉github好慢啊啊啊啊，<br>于是就把部署到Coding提上日程了，现在是双线部署。</p>
-<p>主要看的这篇文章：<a href="https://cloud.tencent.com/developer/article/1580237" target="_blank" rel="noopener" title="Hexo博客部署到码云和Coding">部署Coding</a></p>
-<p>挺详细的，但也有差错。<br>遇到的坑有：</p>
-<ol>
-<li>静态网站需要实名认证，文章没说。</li>
-<li>我之前Github居然没搞ssh公钥，惊了，就输入了 <code>ssh-keygen -o</code> 啥的。</li>
-<li>文章中有句话<blockquote>
-<p>然后打开<code>cmd</code>控制台输入<code>ssh -T git@git.coding.net</code><br>实际上应该是 <code>git@[username].coding.net</code></p>
-</blockquote>
-</li>
-</ol>
-<p>比如我的</p>
-<blockquote>
-<p>ssh -T <a href="mailto:git@pigz2538.coding.net">git@pigz2538.coding.net</a></p>
-</blockquote>
-<ol start="4">
-<li>把<code>_config.yml</code>的<code>root</code>从 <code>/pigz2538.github.io/</code> 改成<code>/</code> ，CSS便可以正常加载了。</li>
-</ol>
-]]></content>
-      <categories>
-        <category>网站历史</category>
-      </categories>
-      <tags>
-        <tag>历史</tag>
       </tags>
   </entry>
 </search>
