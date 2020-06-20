@@ -80,70 +80,6 @@
       </tags>
   </entry>
   <entry>
-    <title>换了个主题</title>
-    <url>/2020/05/02/%E6%8D%A2%E4%BA%86%E4%B8%AA%E4%B8%BB%E9%A2%98/</url>
-    <content><![CDATA[<p>又浪费了一些时间</p>
-<p>主题Butterfly，看起来8错，就是图片啥的明天鼓捣鼓捣换换，加载速度8太彳亍。</p>
-<p>live2d咋都换不了，就只能用这个<del>老婆</del>了，位置啥的还得调节调节。</p>
-<p>为啥啥主题的归档页面都是这啊啊啊啊啊！！！！</p>
-<p>这不能调节:horse:?</p>
-<p>（↑顺便测试一下markdown的emoji）</p>
-]]></content>
-      <categories>
-        <category>网站历史</category>
-      </categories>
-      <tags>
-        <tag>历史</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Html/CSS启蒙</title>
-    <url>/2020/05/04/Html-CSS%E5%90%AF%E8%92%99/</url>
-    <content><![CDATA[<h1><span id="发现个学习htmlcss的好网站">发现个学习Html/CSS的好网站</span></h1><p>就这个<br><a href="https://www.w3school.com.cn/" target="_blank" rel="noopener">https://www.w3school.com.cn/</a></p>
-<p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504225723.png" alt></p>
-<p>看起来挺爽的，查资料啥的也方便，主要有时候markdown语法和网页渲染冲突啥的，比如<span style="border-bottom:2px solid red;">下划线</span>。</p>
-<div class="hide-block"><a class="hide-button button--primary button--animated" style>如何实现下划线？
-    </a><span class="hide-content"><p>上边这个是这样实现的：<br><code>&lt;span style=&quot;border-bottom:2px solid red;&quot;&gt;下划线&lt;/span&gt;</code></p><p>实际上是巧用了CSS的边框，还有多种可供选择。</p><p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504225719.png" alt></p></span></div>
-
-
-
-]]></content>
-      <categories>
-        <category>收藏</category>
-      </categories>
-      <tags>
-        <tag>学习</tag>
-        <tag>Html</tag>
-        <tag>CSS</tag>
-        <tag>网站推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>前言</title>
-    <url>/2020/05/04/%E5%89%8D%E8%A8%80/</url>
-    <content><![CDATA[<h1><span id="前言">前言</span></h1><ol>
-<li>该合集是日常所思、所想、所感。一定有许多不成熟或者是错误的地方，<strong>但仅仅是个人<span style="border-bottom:2px solid red;">某一个时期里</span>的观点</strong>。</li>
-<li>欢迎不同的思想交流讨论，不欢迎无脑没内容的嘲讽骂街。</li>
-<li>喜欢理性的批评。</li>
-<li>文章一旦发出，除非格式文字错误，否则<strong>不会更改</strong>，以保留当时最真实的思想情况。</li>
-<li>采用<strong>markdown</strong>语法和<strong>LaTeX</strong>进行编辑，尽最大努力保证普适性。</li>
-<li>其他想到再写。</li>
-</ol>
-<p>Q:为什么不写着日记里？<br>A:日记里应该也会保留一份，但分享出来但一般是没有个人隐私内容的，和值得交流的。</p>
-<p>Q:怎么一起交流？<br>A: </p>
-<ul>
-<li>关于我页面找我，推荐QQ，邮件，不推荐微信和Twitter。</li>
-<li>下方评论区。<del>(在搞了在搞了)</del></li>
-</ul>
-]]></content>
-      <categories>
-        <category>随想录</category>
-      </categories>
-      <tags>
-        <tag>开始</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>从《后浪》谈起</title>
     <url>/2020/05/06/%E4%BB%8E%E3%80%8A%E5%90%8E%E6%B5%AA%E3%80%8B%E8%B0%88%E8%B5%B7/</url>
     <content><![CDATA[<p><del>（先声讨一下现在一直在蚕食我的蚊子）</del></p>
@@ -475,32 +411,262 @@
       </tags>
   </entry>
   <entry>
-    <title>博客部署到Coding</title>
-    <url>/2020/05/10/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E5%88%B0Coding/</url>
-    <content><![CDATA[<h1><span id="主要github有点慢">主要github有点慢</span></h1><p>写《后浪》评论文章时候感觉github好慢啊啊啊啊，<br>于是就把部署到Coding提上日程了，现在是双线部署。</p>
-<p>主要看的这篇文章：<a href="https://cloud.tencent.com/developer/article/1580237" target="_blank" rel="noopener" title="Hexo博客部署到码云和Coding">部署Coding</a></p>
-<p>挺详细的，但也有差错。<br>遇到的坑有：</p>
-<ol>
-<li>静态网站需要实名认证，文章没说。</li>
-<li>我之前Github居然没搞ssh公钥，惊了，就输入了 <code>ssh-keygen -o</code> 啥的。</li>
-<li>文章中有句话<blockquote>
-<p>然后打开<code>cmd</code>控制台输入<code>ssh -T git@git.coding.net</code><br>实际上应该是 <code>git@[username].coding.net</code></p>
-</blockquote>
-</li>
+    <title>前言</title>
+    <url>/2020/05/04/%E5%89%8D%E8%A8%80/</url>
+    <content><![CDATA[<h1><span id="前言">前言</span></h1><ol>
+<li>该合集是日常所思、所想、所感。一定有许多不成熟或者是错误的地方，<strong>但仅仅是个人<span style="border-bottom:2px solid red;">某一个时期里</span>的观点</strong>。</li>
+<li>欢迎不同的思想交流讨论，不欢迎无脑没内容的嘲讽骂街。</li>
+<li>喜欢理性的批评。</li>
+<li>文章一旦发出，除非格式文字错误，否则<strong>不会更改</strong>，以保留当时最真实的思想情况。</li>
+<li>采用<strong>markdown</strong>语法和<strong>LaTeX</strong>进行编辑，尽最大努力保证普适性。</li>
+<li>其他想到再写。</li>
 </ol>
-<p>比如我的</p>
-<blockquote>
-<p>ssh -T <a href="mailto:git@pigz2538.coding.net">git@pigz2538.coding.net</a></p>
-</blockquote>
-<ol start="4">
-<li>把<code>_config.yml</code>的<code>root</code>从 <code>/pigz2538.github.io/</code> 改成<code>/</code> ，CSS便可以正常加载了。</li>
-</ol>
+<p>Q:为什么不写着日记里？<br>A:日记里应该也会保留一份，但分享出来但一般是没有个人隐私内容的，和值得交流的。</p>
+<p>Q:怎么一起交流？<br>A: </p>
+<ul>
+<li>关于我页面找我，推荐QQ，邮件，不推荐微信和Twitter。</li>
+<li>下方评论区。<del>(在搞了在搞了)</del></li>
+</ul>
+]]></content>
+      <categories>
+        <category>随想录</category>
+      </categories>
+      <tags>
+        <tag>开始</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Html/CSS启蒙</title>
+    <url>/2020/05/04/Html-CSS%E5%90%AF%E8%92%99/</url>
+    <content><![CDATA[<h1><span id="发现个学习htmlcss的好网站">发现个学习Html/CSS的好网站</span></h1><p>就这个<br><a href="https://www.w3school.com.cn/" target="_blank" rel="noopener">https://www.w3school.com.cn/</a></p>
+<p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504225723.png" alt></p>
+<p>看起来挺爽的，查资料啥的也方便，主要有时候markdown语法和网页渲染冲突啥的，比如<span style="border-bottom:2px solid red;">下划线</span>。</p>
+<div class="hide-block"><a class="hide-button button--primary button--animated" style>如何实现下划线？
+    </a><span class="hide-content"><p>上边这个是这样实现的：<br><code>&lt;span style=&quot;border-bottom:2px solid red;&quot;&gt;下划线&lt;/span&gt;</code></p><p>实际上是巧用了CSS的边框，还有多种可供选择。</p><p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504225719.png" alt></p></span></div>
+
+
+
+]]></content>
+      <categories>
+        <category>收藏</category>
+      </categories>
+      <tags>
+        <tag>学习</tag>
+        <tag>Html</tag>
+        <tag>CSS</tag>
+        <tag>网站推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>换了个主题</title>
+    <url>/2020/05/02/%E6%8D%A2%E4%BA%86%E4%B8%AA%E4%B8%BB%E9%A2%98/</url>
+    <content><![CDATA[<p>又浪费了一些时间</p>
+<p>主题Butterfly，看起来8错，就是图片啥的明天鼓捣鼓捣换换，加载速度8太彳亍。</p>
+<p>live2d咋都换不了，就只能用这个<del>老婆</del>了，位置啥的还得调节调节。</p>
+<p>为啥啥主题的归档页面都是这啊啊啊啊啊！！！！</p>
+<p>这不能调节:horse:?</p>
+<p>（↑顺便测试一下markdown的emoji）</p>
 ]]></content>
       <categories>
         <category>网站历史</category>
       </categories>
       <tags>
         <tag>历史</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>生物边缘知识点</title>
+    <url>/2020/05/17/%E7%94%9F%E7%89%A9%E8%BE%B9%E7%BC%98%E7%9F%A5%E8%AF%86%E7%82%B9/</url>
+    <content><![CDATA[<center><strong><font color="#000000" size="18" face="黑体">生物边缘知识点</font></strong></center> 
+
+<h1><span id="必修一">必修一</span></h1><h2><span id="第一章-走进细胞">第一章 走进细胞</span></h2><h3><span id="细胞的多样性和统一性">细胞的多样性和统一性</span></h3><ul>
+<li>多样性<ul>
+<li>原核细胞和真核细胞的结构、形态不同。</li>
+<li>不同真核/原核细胞的形态结构差异。</li>
+</ul>
+</li>
+<li>统一性<ul>
+<li>细胞膜、细胞质、核糖体、DNA。</li>
+<li>组成不同细胞的化学元素和化合物种类基本相同。<br><strong>（注：哺乳动物成熟红细胞没有核糖体和DNA）</strong></li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3><span id="细胞学说">细胞学说</span></h3><ul>
+<li>建立过程<br><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200517153742.jpg" alt></li>
+<li>要点<ul>
+<li>细胞是一个有机体，一切<strong>动植物</strong>细胞都由细胞发育而来，并由细胞和细胞产物所构成。</li>
+<li>新细胞可以从老细胞中产生。</li>
+<li>细胞均有自己的生命，又对整体生命其作用。<br><strong>（注:别忘了受精，那是融合，所以原文说“可以”）</strong></li>
+</ul>
+</li>
+</ul>
+<p><strong>细胞学说未涉及病毒和差异性</strong></p>
+<hr>
+<h3><span id="显微镜成像异常原因">显微镜成像异常原因</span></h3><ol>
+<li>看不清物像 —— 材料太厚</li>
+<li>一半模糊，一半清晰 —— 材料厚薄不均匀</li>
+<li>有带黑边的圆圈 —— 装片中有气泡</li>
+<li>一半暗，一半亮 —— 反光镜角度不对</li>
+</ol>
+<hr>
+<h2><span id="第二章-组成细胞的分子">第二章 组成细胞的分子</span></h2><h3><span id="生物界与非生物界">生物界与非生物界</span></h3><ul>
+<li>统一性：组成生物体的元素种类在无机自然界都能找到。</li>
+<li>差异性：组成生物体的元素在生物体内和无机自然界中的<strong>相对含量</strong>差异很大。</li>
+</ul>
+<hr>
+<h3><span id="与蛋白质有关的计算">与蛋白质有关的计算</span></h3><p>$$ 蛋白质的质量=氨基酸的总质量-脱去水分子的质量-二硫键个数 \times 2$$<br>$$蛋白质中游离的氨（羧）基个数 = 肽链数+R基=各氨基酸中-肽键数$$<br>$$ 至少含有的是肽链条数 $$<br><strong>（注：如果出现$n$条环状多肽，肽链条数$-n$）</strong><br>$$ C原子数 = 氨基酸分子数 \times 2 + R基上C原子数 $$<br>$$ H原子数 = 各氨基酸中H原子的总数 - (脱去的水分子数 + 二硫键个数) \times 2 $$<br>$$ O原子数 = 各氨基酸中O原子的总数 - 脱去的水分子数 $$<br>$$ O原子数 = 肽键数 + 肽链数 \times 2 +R基上O原子数 $$<br>$$ N原子数 = 各氨基酸中N原子的总数 $$<br>$$ N原子数 = 肽键数 + 肽链数 + R基上N原子数 $$</p>
+<hr>
+<h2><span id="第三章-细胞的基本结构">第三章 细胞的基本结构</span></h2><h3><span id="探究细胞膜结构的历程">探究细胞膜结构的历程</span></h3><p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200517192917.jpg" alt></p>
+<hr>
+<h3><span id="探究细胞膜成分的实验设计">探究细胞膜成分的实验设计</span></h3><ul>
+<li>脂质 ①<ol>
+<li>用溶解脂质的溶剂处理细胞膜</li>
+<li>细胞膜被溶解</li>
+<li>细胞膜含有脂质成分</li>
+</ol>
+</li>
+<li>脂质②<ol>
+<li>脂溶性物质通过实验</li>
+<li>脂溶性物质优先通过细胞膜</li>
+<li>细胞膜含有脂质成分</li>
+</ol>
+</li>
+<li>蛋白质①<ol>
+<li>用蛋白酶处理细胞膜</li>
+<li>细胞膜被破坏</li>
+<li>细胞膜含有蛋白质</li>
+</ol>
+</li>
+<li>蛋白质②<ol>
+<li>制备细胞膜样液</li>
+<li>加入双缩脲试剂</li>
+<li>出现紫色反应</li>
+<li>细胞膜含有蛋白质</li>
+</ol>
+</li>
+<li>糖蛋白<ol>
+<li>制备细胞膜样液</li>
+<li>加入斐林试剂</li>
+<li>水浴加热</li>
+<li>出现砖红色沉淀</li>
+<li>蛋白质检验（略）</li>
+<li>细胞膜含有糖蛋白</li>
+</ol>
+</li>
+</ul>
+<hr>
+<h3><span id="探究细胞膜功能的实验设计">探究细胞膜功能的实验设计</span></h3><ul>
+<li>控制物质进出①<ol>
+<li>红墨水处理正常的玉米种子</li>
+<li>玉米种子不显红色</li>
+<li>红墨水处理煮熟的玉米种子</li>
+<li>玉米种子显红色</li>
+</ol>
+</li>
+<li>控制物质进出②<ol>
+<li>将有颜色的植物组织放入清水中</li>
+<li>高温处理</li>
+<li>强酸处理</li>
+<li>强碱处理</li>
+<li>观察实验前后清水的颜色变化</li>
+</ol>
+</li>
+<li>信息识别<ol>
+<li>大量同种生物和亲缘关系较远的生物的精子和卵细胞混合</li>
+<li>观察细胞融合</li>
+<li>只有同种生物的精子和卵细胞才能融合</li>
+</ol>
+</li>
+</ul>
+<hr>
+<h3><span id="分泌蛋白的实验注意">分泌蛋白的实验注意</span></h3><ul>
+<li>用放射性元素标记氨基酸后，按照放射性出现的时间先后 <ol>
+<li>核糖体</li>
+<li>粗面内质网</li>
+<li>高尔基体</li>
+<li>分泌小泡</li>
+</ol>
+</li>
+<li>在分泌蛋白加工和运输过程中<ol>
+<li>粗面内质网膜面积相对减小</li>
+<li>细胞膜面积相对增大</li>
+<li>高尔基体膜面积基本不变</li>
+</ol>
+</li>
+</ul>
+<hr>
+<h3><span id="生物模型的分类">生物模型的分类</span></h3><p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200517181227.png" alt><br><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200517181237.png" alt><br><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200517181246.png" alt></p>
+<hr>
+<h2><span id="第四章-细胞的物质输入和输出">第四章 细胞的物质输入和输出</span></h2><hr>
+<h2><span id="第五章-细胞的能量供应和利用">第五章 细胞的能量供应和利用</span></h2><h3><span id="酶本质的探索">酶本质的探索</span></h3><ol>
+<li><strong>1773年</strong>，意大利科学家斯<strong>帕兰扎尼</strong>做了一个巧妙的实验：将肉块放入小巧的金属笼中，然后让鹰吞下去。过一段时间他将小笼取出，发现肉块消失了。于是，他推断胃液中一定含有消化肉块的物质。</li>
+<li><strong>1810年</strong>，<strong>Jaseph Gaylussac</strong>发现酵母可将糖转化为酒精。</li>
+<li><strong>1857年</strong>，法国微生物学家<strong>巴斯德</strong>通过显微镜观察,提出酒精发酵是由于酵母细胞活动的结果，即离不开酵母活细胞；<strong>李比希</strong>反对这种观点，认为引起发酵的是酵母细胞中的某些物质。</li>
+<li><strong>1897年</strong>，德国化学家<strong>毕希纳</strong>把酵母细胞放在石英砂中用力研磨，加水搅拌，在进行加压过滤，得到不含酵母的提取液，在这些汁液中加入葡萄糖，一段时间后就冒出气泡，糖液居然变成了酒，后来科学家就把它命名为“酶”，英文名称是Enzyme，意思是“在酵母中”。</li>
+<li><strong>1926年</strong>，美国科学家<strong>萨姆钠</strong>从刀豆种子中提取出脲酶的结晶，并通过化学实验证实脲酶是一种蛋白质。</li>
+<li><strong>20世纪30年代</strong>，科学家们相继提取出多种酶的蛋白质结晶，并指出酶是一类具有生物催化作用的蛋白质。</li>
+<li><strong>20世纪80年代</strong>，美国科学家<strong>切赫</strong>和<strong>奥特曼</strong>发现少数RNA也具有生物催化作用。 </li>
+</ol>
+<hr>
+<h2><span id="第五章-细胞的能量供应和利用">第五章 细胞的能量供应和利用</span></h2><h3><span id="色素提取分离试验">色素提取分离试验</span></h3><p><strong>二氧化硅</strong>：充分研磨<br><strong>碳酸钙</strong>：防止研磨过程中色素被破坏<br><strong>无水乙醇</strong>：溶解色素（95%+一点点无水碳酸钠）<br><strong>层析液</strong>：是色素扩散并分离<br><strong>棉塞</strong>：防止无水乙醇挥发<br><strong>滤液细线</strong>：</p>
+<ul>
+<li>直：使分离出来的色素带整齐</li>
+<li>层析液不能碰：防止色素溶解在层析液中</li>
+<li>多画几次：使分离出来的色素带清晰分明</li>
+</ul>
+<p><strong>迅速、充分研磨</strong>：防止乙醇挥发和色素氧化<br><strong>滤纸干燥</strong>：层析液在滤纸上快速扩散<br><strong>试管、小烧杯加盖</strong>：防止层析液中的成分挥发</p>
+<table>
+<thead>
+<tr>
+<th align="center">色素种类</th>
+<th align="center">色素颜色</th>
+<th align="center">色素含量</th>
+<th align="center">溶解度</th>
+<th align="center">扩散速度</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">胡萝卜素</td>
+<td align="center">橙黄色</td>
+<td align="center">最少</td>
+<td align="center">最高</td>
+<td align="center">最快</td>
+</tr>
+<tr>
+<td align="center">叶黄素</td>
+<td align="center">黄色</td>
+<td align="center">较少</td>
+<td align="center">较高</td>
+<td align="center">较快</td>
+</tr>
+<tr>
+<td align="center">叶绿素a</td>
+<td align="center">蓝绿色</td>
+<td align="center">最多</td>
+<td align="center">较低</td>
+<td align="center">较慢</td>
+</tr>
+<tr>
+<td align="center">叶绿素b</td>
+<td align="center">黄绿色</td>
+<td align="center">较多</td>
+<td align="center">最低</td>
+<td align="center">最慢</td>
+</tr>
+</tbody></table>
+<hr>
+<h3><span id="光合作用的探究历程">光合作用的探究历程</span></h3><p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200517192922.jpg" alt></p>
+<hr>
+<h2><span id="第六章-细胞的生命历程">第六章 细胞的生命历程</span></h2><hr>
+<h1><span id="必修二">必修二</span></h1>]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>学习</tag>
+        <tag>高考</tag>
+        <tag>生物</tag>
       </tags>
   </entry>
   <entry>
@@ -835,198 +1001,32 @@
       </tags>
   </entry>
   <entry>
-    <title>生物边缘知识点</title>
-    <url>/2020/05/17/%E7%94%9F%E7%89%A9%E8%BE%B9%E7%BC%98%E7%9F%A5%E8%AF%86%E7%82%B9/</url>
-    <content><![CDATA[<center><strong><font color="#000000" size="18" face="黑体">生物边缘知识点</font></strong></center> 
-
-<h1><span id="必修一">必修一</span></h1><h2><span id="第一章-走进细胞">第一章 走进细胞</span></h2><h3><span id="细胞的多样性和统一性">细胞的多样性和统一性</span></h3><ul>
-<li>多样性<ul>
-<li>原核细胞和真核细胞的结构、形态不同。</li>
-<li>不同真核/原核细胞的形态结构差异。</li>
-</ul>
+    <title>博客部署到Coding</title>
+    <url>/2020/05/10/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E5%88%B0Coding/</url>
+    <content><![CDATA[<h1><span id="主要github有点慢">主要github有点慢</span></h1><p>写《后浪》评论文章时候感觉github好慢啊啊啊啊，<br>于是就把部署到Coding提上日程了，现在是双线部署。</p>
+<p>主要看的这篇文章：<a href="https://cloud.tencent.com/developer/article/1580237" target="_blank" rel="noopener" title="Hexo博客部署到码云和Coding">部署Coding</a></p>
+<p>挺详细的，但也有差错。<br>遇到的坑有：</p>
+<ol>
+<li>静态网站需要实名认证，文章没说。</li>
+<li>我之前Github居然没搞ssh公钥，惊了，就输入了 <code>ssh-keygen -o</code> 啥的。</li>
+<li>文章中有句话<blockquote>
+<p>然后打开<code>cmd</code>控制台输入<code>ssh -T git@git.coding.net</code><br>实际上应该是 <code>git@[username].coding.net</code></p>
+</blockquote>
 </li>
-<li>统一性<ul>
-<li>细胞膜、细胞质、核糖体、DNA。</li>
-<li>组成不同细胞的化学元素和化合物种类基本相同。<br><strong>（注：哺乳动物成熟红细胞没有核糖体和DNA）</strong></li>
-</ul>
-</li>
-</ul>
-<hr>
-<h3><span id="细胞学说">细胞学说</span></h3><ul>
-<li>建立过程<br><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200517153742.jpg" alt></li>
-<li>要点<ul>
-<li>细胞是一个有机体，一切<strong>动植物</strong>细胞都由细胞发育而来，并由细胞和细胞产物所构成。</li>
-<li>新细胞可以从老细胞中产生。</li>
-<li>细胞均有自己的生命，又对整体生命其作用。<br><strong>（注:别忘了受精，那是融合，所以原文说“可以”）</strong></li>
-</ul>
-</li>
-</ul>
-<p><strong>细胞学说未涉及病毒和差异性</strong></p>
-<hr>
-<h3><span id="显微镜成像异常原因">显微镜成像异常原因</span></h3><ol>
-<li>看不清物像 —— 材料太厚</li>
-<li>一半模糊，一半清晰 —— 材料厚薄不均匀</li>
-<li>有带黑边的圆圈 —— 装片中有气泡</li>
-<li>一半暗，一半亮 —— 反光镜角度不对</li>
 </ol>
-<hr>
-<h2><span id="第二章-组成细胞的分子">第二章 组成细胞的分子</span></h2><h3><span id="生物界与非生物界">生物界与非生物界</span></h3><ul>
-<li>统一性：组成生物体的元素种类在无机自然界都能找到。</li>
-<li>差异性：组成生物体的元素在生物体内和无机自然界中的<strong>相对含量</strong>差异很大。</li>
-</ul>
-<hr>
-<h3><span id="与蛋白质有关的计算">与蛋白质有关的计算</span></h3><p>$$ 蛋白质的质量=氨基酸的总质量-脱去水分子的质量-二硫键个数 \times 2$$<br>$$蛋白质中游离的氨（羧）基个数 = 肽链数+R基=各氨基酸中-肽键数$$<br>$$ 至少含有的是肽链条数 $$<br><strong>（注：如果出现$n$条环状多肽，肽链条数$-n$）</strong><br>$$ C原子数 = 氨基酸分子数 \times 2 + R基上C原子数 $$<br>$$ H原子数 = 各氨基酸中H原子的总数 - (脱去的水分子数 + 二硫键个数) \times 2 $$<br>$$ O原子数 = 各氨基酸中O原子的总数 - 脱去的水分子数 $$<br>$$ O原子数 = 肽键数 + 肽链数 \times 2 +R基上O原子数 $$<br>$$ N原子数 = 各氨基酸中N原子的总数 $$<br>$$ N原子数 = 肽键数 + 肽链数 + R基上N原子数 $$</p>
-<hr>
-<h2><span id="第三章-细胞的基本结构">第三章 细胞的基本结构</span></h2><h3><span id="探究细胞膜结构的历程">探究细胞膜结构的历程</span></h3><p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200517192917.jpg" alt></p>
-<hr>
-<h3><span id="探究细胞膜成分的实验设计">探究细胞膜成分的实验设计</span></h3><ul>
-<li>脂质 ①<ol>
-<li>用溶解脂质的溶剂处理细胞膜</li>
-<li>细胞膜被溶解</li>
-<li>细胞膜含有脂质成分</li>
+<p>比如我的</p>
+<blockquote>
+<p>ssh -T <a href="mailto:git@pigz2538.coding.net">git@pigz2538.coding.net</a></p>
+</blockquote>
+<ol start="4">
+<li>把<code>_config.yml</code>的<code>root</code>从 <code>/pigz2538.github.io/</code> 改成<code>/</code> ，CSS便可以正常加载了。</li>
 </ol>
-</li>
-<li>脂质②<ol>
-<li>脂溶性物质通过实验</li>
-<li>脂溶性物质优先通过细胞膜</li>
-<li>细胞膜含有脂质成分</li>
-</ol>
-</li>
-<li>蛋白质①<ol>
-<li>用蛋白酶处理细胞膜</li>
-<li>细胞膜被破坏</li>
-<li>细胞膜含有蛋白质</li>
-</ol>
-</li>
-<li>蛋白质②<ol>
-<li>制备细胞膜样液</li>
-<li>加入双缩脲试剂</li>
-<li>出现紫色反应</li>
-<li>细胞膜含有蛋白质</li>
-</ol>
-</li>
-<li>糖蛋白<ol>
-<li>制备细胞膜样液</li>
-<li>加入斐林试剂</li>
-<li>水浴加热</li>
-<li>出现砖红色沉淀</li>
-<li>蛋白质检验（略）</li>
-<li>细胞膜含有糖蛋白</li>
-</ol>
-</li>
-</ul>
-<hr>
-<h3><span id="探究细胞膜功能的实验设计">探究细胞膜功能的实验设计</span></h3><ul>
-<li>控制物质进出①<ol>
-<li>红墨水处理正常的玉米种子</li>
-<li>玉米种子不显红色</li>
-<li>红墨水处理煮熟的玉米种子</li>
-<li>玉米种子显红色</li>
-</ol>
-</li>
-<li>控制物质进出②<ol>
-<li>将有颜色的植物组织放入清水中</li>
-<li>高温处理</li>
-<li>强酸处理</li>
-<li>强碱处理</li>
-<li>观察实验前后清水的颜色变化</li>
-</ol>
-</li>
-<li>信息识别<ol>
-<li>大量同种生物和亲缘关系较远的生物的精子和卵细胞混合</li>
-<li>观察细胞融合</li>
-<li>只有同种生物的精子和卵细胞才能融合</li>
-</ol>
-</li>
-</ul>
-<hr>
-<h3><span id="分泌蛋白的实验注意">分泌蛋白的实验注意</span></h3><ul>
-<li>用放射性元素标记氨基酸后，按照放射性出现的时间先后 <ol>
-<li>核糖体</li>
-<li>粗面内质网</li>
-<li>高尔基体</li>
-<li>分泌小泡</li>
-</ol>
-</li>
-<li>在分泌蛋白加工和运输过程中<ol>
-<li>粗面内质网膜面积相对减小</li>
-<li>细胞膜面积相对增大</li>
-<li>高尔基体膜面积基本不变</li>
-</ol>
-</li>
-</ul>
-<hr>
-<h3><span id="生物模型的分类">生物模型的分类</span></h3><p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200517181227.png" alt><br><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200517181237.png" alt><br><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200517181246.png" alt></p>
-<hr>
-<h2><span id="第四章-细胞的物质输入和输出">第四章 细胞的物质输入和输出</span></h2><hr>
-<h2><span id="第五章-细胞的能量供应和利用">第五章 细胞的能量供应和利用</span></h2><h3><span id="酶本质的探索">酶本质的探索</span></h3><ol>
-<li><strong>1773年</strong>，意大利科学家斯<strong>帕兰扎尼</strong>做了一个巧妙的实验：将肉块放入小巧的金属笼中，然后让鹰吞下去。过一段时间他将小笼取出，发现肉块消失了。于是，他推断胃液中一定含有消化肉块的物质。</li>
-<li><strong>1810年</strong>，<strong>Jaseph Gaylussac</strong>发现酵母可将糖转化为酒精。</li>
-<li><strong>1857年</strong>，法国微生物学家<strong>巴斯德</strong>通过显微镜观察,提出酒精发酵是由于酵母细胞活动的结果，即离不开酵母活细胞；<strong>李比希</strong>反对这种观点，认为引起发酵的是酵母细胞中的某些物质。</li>
-<li><strong>1897年</strong>，德国化学家<strong>毕希纳</strong>把酵母细胞放在石英砂中用力研磨，加水搅拌，在进行加压过滤，得到不含酵母的提取液，在这些汁液中加入葡萄糖，一段时间后就冒出气泡，糖液居然变成了酒，后来科学家就把它命名为“酶”，英文名称是Enzyme，意思是“在酵母中”。</li>
-<li><strong>1926年</strong>，美国科学家<strong>萨姆钠</strong>从刀豆种子中提取出脲酶的结晶，并通过化学实验证实脲酶是一种蛋白质。</li>
-<li><strong>20世纪30年代</strong>，科学家们相继提取出多种酶的蛋白质结晶，并指出酶是一类具有生物催化作用的蛋白质。</li>
-<li><strong>20世纪80年代</strong>，美国科学家<strong>切赫</strong>和<strong>奥特曼</strong>发现少数RNA也具有生物催化作用。 </li>
-</ol>
-<hr>
-<h2><span id="第五章-细胞的能量供应和利用">第五章 细胞的能量供应和利用</span></h2><h3><span id="色素提取分离试验">色素提取分离试验</span></h3><p><strong>二氧化硅</strong>：充分研磨<br><strong>碳酸钙</strong>：防止研磨过程中色素被破坏<br><strong>无水乙醇</strong>：溶解色素（95%+一点点无水碳酸钠）<br><strong>层析液</strong>：是色素扩散并分离<br><strong>棉塞</strong>：防止无水乙醇挥发<br><strong>滤液细线</strong>：</p>
-<ul>
-<li>直：使分离出来的色素带整齐</li>
-<li>层析液不能碰：防止色素溶解在层析液中</li>
-<li>多画几次：使分离出来的色素带清晰分明</li>
-</ul>
-<p><strong>迅速、充分研磨</strong>：防止乙醇挥发和色素氧化<br><strong>滤纸干燥</strong>：层析液在滤纸上快速扩散<br><strong>试管、小烧杯加盖</strong>：防止层析液中的成分挥发</p>
-<table>
-<thead>
-<tr>
-<th align="center">色素种类</th>
-<th align="center">色素颜色</th>
-<th align="center">色素含量</th>
-<th align="center">溶解度</th>
-<th align="center">扩散速度</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">胡萝卜素</td>
-<td align="center">橙黄色</td>
-<td align="center">最少</td>
-<td align="center">最高</td>
-<td align="center">最快</td>
-</tr>
-<tr>
-<td align="center">叶黄素</td>
-<td align="center">黄色</td>
-<td align="center">较少</td>
-<td align="center">较高</td>
-<td align="center">较快</td>
-</tr>
-<tr>
-<td align="center">叶绿素a</td>
-<td align="center">蓝绿色</td>
-<td align="center">最多</td>
-<td align="center">较低</td>
-<td align="center">较慢</td>
-</tr>
-<tr>
-<td align="center">叶绿素b</td>
-<td align="center">黄绿色</td>
-<td align="center">较多</td>
-<td align="center">最低</td>
-<td align="center">最慢</td>
-</tr>
-</tbody></table>
-<hr>
-<h3><span id="光合作用的探究历程">光合作用的探究历程</span></h3><p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200517192922.jpg" alt></p>
-<hr>
-<h2><span id="第六章-细胞的生命历程">第六章 细胞的生命历程</span></h2><hr>
-<h1><span id="必修二">必修二</span></h1>]]></content>
+]]></content>
       <categories>
-        <category>学习</category>
+        <category>网站历史</category>
       </categories>
       <tags>
-        <tag>学习</tag>
-        <tag>高考</tag>
-        <tag>生物</tag>
+        <tag>历史</tag>
       </tags>
   </entry>
   <entry>
@@ -1037,8 +1037,8 @@
         <category>随想录</category>
       </categories>
       <tags>
-        <tag>学习</tag>
         <tag>随笔</tag>
+        <tag>学习</tag>
       </tags>
   </entry>
 </search>
