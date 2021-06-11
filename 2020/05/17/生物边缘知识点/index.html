@@ -1,0 +1,292 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>生物边缘知识点 | Pilog</title><meta name="description" content="一些容易忽略的大块内容"><meta name="keywords" content="学习,高考,生物"><meta name="author" content="pigz2538"><meta name="copyright" content="pigz2538"><meta name="format-detection" content="telephone=no"><link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200502005658.png"><meta http-equiv="Cache-Control" content="no-transform"><meta http-equiv="Cache-Control" content="no-siteapp"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="dns-prefetch" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="https://fonts.googleapis.com" crossorigin="crossorigin"/><link rel="dns-prefetch" href="https://fonts.googleapis.com"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><link rel="dns-prefetch" href="//busuanzi.ibruce.info"/><meta name="twitter:card" content="summary"><meta name="twitter:title" content="生物边缘知识点"><meta name="twitter:description" content="一些容易忽略的大块内容"><meta name="twitter:image" content="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200517201548.jpg"><meta property="og:type" content="article"><meta property="og:title" content="生物边缘知识点"><meta property="og:url" content="https://pigz2538.github.io/2020/05/17/%E7%94%9F%E7%89%A9%E8%BE%B9%E7%BC%98%E7%9F%A5%E8%AF%86%E7%82%B9/"><meta property="og:site_name" content="Pilog"><meta property="og:description" content="一些容易忽略的大块内容"><meta property="og:image" content="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200517201548.jpg"><meta property="article:published_time" content="2020-05-17T07:57:27.000Z"><meta property="article:modified_time" content="2020-05-17T13:00:23.886Z"><script src="https://cdn.jsdelivr.net/npm/js-cookie/dist/js.cookie.min.js"></script><script>var autoChangeMode = 'false'
+var t = Cookies.get("theme")
+if (autoChangeMode == '1'){
+  var isDarkMode = window.matchMedia("(prefers-color-scheme: dark)").matches
+  var isLightMode = window.matchMedia("(prefers-color-scheme: light)").matches
+  var isNotSpecified = window.matchMedia("(prefers-color-scheme: no-preference)").matches
+  var hasNoSupport = !isDarkMode && !isLightMode && !isNotSpecified
+
+  if (t === undefined){
+    if (isLightMode) activateLightMode()
+    else if (isDarkMode) activateDarkMode()
+    else if (isNotSpecified || hasNoSupport){
+      console.log('You specified no preference for a color scheme or your browser does not support it. I Schedule dark mode during night time.')
+      var now = new Date()
+      var hour = now.getHours()
+      var isNight = hour < 6 || hour >= 18
+      isNight ? activateDarkMode() : activateLightMode()
+  }
+  } else if (t == 'light') activateLightMode()
+  else activateDarkMode()
+
+} else if (autoChangeMode == '2'){
+  now = new Date();
+  hour = now.getHours();
+  isNight = hour < 6 || hour >= 18
+  if(t === undefined) isNight? activateDarkMode() : activateLightMode()
+  else if (t === 'light') activateLightMode()
+  else activateDarkMode() 
+} else {
+  if ( t == 'dark' ) activateDarkMode()
+  else if ( t == 'light') activateLightMode()
+}
+
+function activateDarkMode(){
+  document.documentElement.setAttribute('data-theme', 'dark')
+  if (document.querySelector('meta[name="theme-color"]') !== null){
+    document.querySelector('meta[name="theme-color"]').setAttribute('content','#000')
+  }
+}
+function activateLightMode(){
+  document.documentElement.setAttribute('data-theme', 'light')
+  if (document.querySelector('meta[name="theme-color"]') !== null){
+  document.querySelector('meta[name="theme-color"]').setAttribute('content','#fff')
+  }
+}</script><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@latest/css/font-awesome.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.css"><link rel="canonical" href="https://pigz2538.github.io/2020/05/17/%E7%94%9F%E7%89%A9%E8%BE%B9%E7%BC%98%E7%9F%A5%E8%AF%86%E7%82%B9/"><link rel="prev" title="对自己的一些分析" href="https://pigz2538.github.io/2020/05/23/%E3%80%8A%E5%AF%B9%E8%87%AA%E5%B7%B1%E7%9A%84%E6%8E%A2%E8%AE%A8%E3%80%8B/"><link rel="next" title="转载：中国的基尼系数是多少？" href="https://pigz2538.github.io/2020/05/10/%E8%BD%AC%E8%BD%BD%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9F%BA%E5%B0%BC%E7%B3%BB%E6%95%B0%E6%98%AF%E5%A4%9A%E5%B0%91%EF%BC%9F/"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Titillium+Web"><script>var GLOBAL_CONFIG = { 
+  root: '/',
+  algolia: undefined,
+  localSearch: {"path":"search.xml","languages":{"hits_empty":"找不到您查询的内容:${query}"}},
+  translate: {"defaultEncoding":2,"translateDelay":0,"cookieDomain":"https://xxx/","msgToTraditionalChinese":"繁","msgToSimplifiedChinese":"簡"},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  bookmark: {
+    message_prev: '按',
+    message_next: '键将本页加入书签'
+  },
+  runtime_unit: '天',
+  runtime: true,
+  copyright: undefined,
+  ClickShowText: {"text":"语文,数学,英语,物理,化学,生物,政治,历史,地理,体育,微机,劳技,班会,自习","fontSize":"15px"},
+  medium_zoom: false,
+  fancybox: true,
+  Snackbar: undefined,
+  baiduPush: false,
+  highlightCopy: true,
+  highlightLang: true,
+  highlightShrink: 'false',
+  isFontAwesomeV5: false,
+  isPhotoFigcaption: false,
+  islazyload: true,
+  isanchor: false
+  
+}</script><script>var GLOBAL_CONFIG_SITE = { 
+  isPost: true,
+  isHome: false,
+  isSidebar: true  
+  }</script><noscript><style>
+#page-header {
+  opacity: 1
+}
+.justified-gallery img{
+  opacity: 1
+}
+</style></noscript><meta name="generator" content="Hexo 4.2.0"><link rel="alternate" href="/atom.xml" title="Pilog" type="application/atom+xml">
+</head><body><div id="mobile-sidebar"><div id="menu_mask"></div><div id="mobile-sidebar-menus"><div class="mobile_author_icon"><img class="avatar-img" src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200502005710.png" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="mobile_post_data"><div class="mobile_data_item is-center"><div class="mobile_data_link"><a href="/archives/"><div class="headline">文章</div><div class="length_num">14</div></a></div></div><div class="mobile_data_item is-center">      <div class="mobile_data_link"><a href="/tags/"><div class="headline">标签</div><div class="length_num">13</div></a></div></div><div class="mobile_data_item is-center">     <div class="mobile_data_link"><a href="/categories/"><div class="headline">分类</div><div class="length_num">5</div></a></div></div></div><hr/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fa fa-home"></i><span> 主窝</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fa fa-archive"></i><span> 有点啥</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fa fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fa fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fa fa-link"></i><span> 胖友</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fa fa-heart"></i><span> 我自个儿</span></a></div><div class="menus_item"><a class="site-page"><i class="fa-fw fa fa-list" aria-hidden="true"></i><span> 其它</span><i class="fa fa-chevron-down menus-expand" aria-hidden="true"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/music/"><i class="fa-fw fa fa-music"></i><span> 音乐</span></a></li><li><a class="site-page" href="/movies/"><i class="fa-fw fa fa-film"></i><span> 电影</span></a></li></ul></div></div></div></div><i class="fa fa-arrow-right" id="toggle-sidebar" aria-hidden="true">     </i><div id="sidebar"><div class="sidebar-toc"><div class="sidebar-toc__title">目录</div><div class="sidebar-toc__progress"><span class="progress-notice">你已经读了</span><span class="progress-num">0</span><span class="progress-percentage">%</span><div class="sidebar-toc__progress-bar">     </div></div><div class="sidebar-toc__content"><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#"><span class="toc-number">1.</span> <span class="toc-text">必修一</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#"><span class="toc-number">1.1.</span> <span class="toc-text">第一章 走进细胞</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#"><span class="toc-number">1.1.1.</span> <span class="toc-text">细胞的多样性和统一性</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#"><span class="toc-number">1.1.2.</span> <span class="toc-text">细胞学说</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#"><span class="toc-number">1.1.3.</span> <span class="toc-text">显微镜成像异常原因</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#"><span class="toc-number">1.2.</span> <span class="toc-text">第二章 组成细胞的分子</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#"><span class="toc-number">1.2.1.</span> <span class="toc-text">生物界与非生物界</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#"><span class="toc-number">1.2.2.</span> <span class="toc-text">与蛋白质有关的计算</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#"><span class="toc-number">1.3.</span> <span class="toc-text">第三章 细胞的基本结构</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#"><span class="toc-number">1.3.1.</span> <span class="toc-text">探究细胞膜结构的历程</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#"><span class="toc-number">1.3.2.</span> <span class="toc-text">探究细胞膜成分的实验设计</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#"><span class="toc-number">1.3.3.</span> <span class="toc-text">探究细胞膜功能的实验设计</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#"><span class="toc-number">1.3.4.</span> <span class="toc-text">分泌蛋白的实验注意</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#"><span class="toc-number">1.3.5.</span> <span class="toc-text">生物模型的分类</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#"><span class="toc-number">1.4.</span> <span class="toc-text">第四章 细胞的物质输入和输出</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#"><span class="toc-number">1.5.</span> <span class="toc-text">第五章 细胞的能量供应和利用</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#"><span class="toc-number">1.5.1.</span> <span class="toc-text">酶本质的探索</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#"><span class="toc-number">1.6.</span> <span class="toc-text">第五章 细胞的能量供应和利用</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#"><span class="toc-number">1.6.1.</span> <span class="toc-text">色素提取分离试验</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#"><span class="toc-number">1.6.2.</span> <span class="toc-text">光合作用的探究历程</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#"><span class="toc-number">1.7.</span> <span class="toc-text">第六章 细胞的生命历程</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#"><span class="toc-number">2.</span> <span class="toc-text">必修二</span></a></li></ol></div></div></div><div id="body-wrap"><div id="web_bg" data-type="photo"></div><div class="post-bg" id="nav" style="background-image: url(https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200517201548.jpg)"><div id="page-header"><span class="pull_left" id="blog_name"><a class="blog_title" id="site-name" href="/">Pilog</a></span><span class="pull_right menus"><div id="search_button"><a class="site-page social-icon search"><i class="fa fa-search fa-fw"></i><span> 搜索</span></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fa fa-home"></i><span> 主窝</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fa fa-archive"></i><span> 有点啥</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fa fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fa fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fa fa-link"></i><span> 胖友</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fa fa-heart"></i><span> 我自个儿</span></a></div><div class="menus_item"><a class="site-page"><i class="fa-fw fa fa-list" aria-hidden="true"></i><span> 其它</span><i class="fa fa-chevron-down menus-expand" aria-hidden="true"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/music/"><i class="fa-fw fa fa-music"></i><span> 音乐</span></a></li><li><a class="site-page" href="/movies/"><i class="fa-fw fa fa-film"></i><span> 电影</span></a></li></ul></div></div><span class="toggle-menu close"><a class="site-page"><i class="fa fa-bars fa-fw" aria-hidden="true"></i></a></span></span></div><div id="post-info"><div id="post-title"><div class="posttitle">生物边缘知识点</div></div><div id="post-meta"><div class="meta-firstline"><time class="post-meta__date"><span class="post-meta__date-created" title="发表于 2020-05-17 15:57:27"><i class="fa fa-calendar" aria-hidden="true"></i> 发表于 2020-05-17</span><span class="post-meta__separator">|</span><span class="post-meta__date-updated" title="更新于 2020-05-17 21:00:23"><i class="fa fa-history" aria-hidden="true"></i> 更新于 2020-05-17</span></time><span class="post-meta__categories"><span class="post-meta__separator">|</span><i class="fa fa-inbox post-meta__icon" aria-hidden="true"></i><a class="post-meta__categories" href="/categories/%E5%AD%A6%E4%B9%A0/">学习</a></span></div><div class="meta-secondline"> <span class="post-meta-wordcount"><i class="post-meta__icon fa fa-file-word-o" aria-hidden="true"></i><span>字数总计:</span><span class="word-count">1.7k</span><span class="post-meta__separator">|</span><i class="post-meta__icon fa fa-clock-o" aria-hidden="true"></i><span>阅读时长: 4 分钟</span></span></div><div class="meta-thirdline"><span class="post-meta-pv-cv"><span class="post-meta__separator">|</span><i class="fa fa-eye post-meta__icon" aria-hidden="true"> </i><span>阅读量:</span><span id="busuanzi_value_page_pv"></span></span><span class="post-meta-commentcount"></span></div></div></div></div><main class="layout_post" id="content-inner"><article id="post"><div class="post-content" id="article-container"><center><strong><font color="#000000" size="18" face="黑体">生物边缘知识点</font></strong></center> 
+
+<h1><span id="必修一">必修一</span></h1><h2><span id="第一章-走进细胞">第一章 走进细胞</span></h2><h3><span id="细胞的多样性和统一性">细胞的多样性和统一性</span></h3><ul>
+<li>多样性<ul>
+<li>原核细胞和真核细胞的结构、形态不同。</li>
+<li>不同真核/原核细胞的形态结构差异。</li>
+</ul>
+</li>
+<li>统一性<ul>
+<li>细胞膜、细胞质、核糖体、DNA。</li>
+<li>组成不同细胞的化学元素和化合物种类基本相同。<br><strong>（注：哺乳动物成熟红细胞没有核糖体和DNA）</strong></li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3><span id="细胞学说">细胞学说</span></h3><ul>
+<li>建立过程<br><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200517153742.jpg" alt></li>
+<li>要点<ul>
+<li>细胞是一个有机体，一切<strong>动植物</strong>细胞都由细胞发育而来，并由细胞和细胞产物所构成。</li>
+<li>新细胞可以从老细胞中产生。</li>
+<li>细胞均有自己的生命，又对整体生命其作用。<br><strong>（注:别忘了受精，那是融合，所以原文说“可以”）</strong></li>
+</ul>
+</li>
+</ul>
+<p><strong>细胞学说未涉及病毒和差异性</strong></p>
+<hr>
+<h3><span id="显微镜成像异常原因">显微镜成像异常原因</span></h3><ol>
+<li>看不清物像 —— 材料太厚</li>
+<li>一半模糊，一半清晰 —— 材料厚薄不均匀</li>
+<li>有带黑边的圆圈 —— 装片中有气泡</li>
+<li>一半暗，一半亮 —— 反光镜角度不对</li>
+</ol>
+<hr>
+<h2><span id="第二章-组成细胞的分子">第二章 组成细胞的分子</span></h2><h3><span id="生物界与非生物界">生物界与非生物界</span></h3><ul>
+<li>统一性：组成生物体的元素种类在无机自然界都能找到。</li>
+<li>差异性：组成生物体的元素在生物体内和无机自然界中的<strong>相对含量</strong>差异很大。</li>
+</ul>
+<hr>
+<h3><span id="与蛋白质有关的计算">与蛋白质有关的计算</span></h3><p>$$ 蛋白质的质量=氨基酸的总质量-脱去水分子的质量-二硫键个数 \times 2$$<br>$$蛋白质中游离的氨（羧）基个数 = 肽链数+R基=各氨基酸中-肽键数$$<br>$$ 至少含有的是肽链条数 $$<br><strong>（注：如果出现$n$条环状多肽，肽链条数$-n$）</strong><br>$$ C原子数 = 氨基酸分子数 \times 2 + R基上C原子数 $$<br>$$ H原子数 = 各氨基酸中H原子的总数 - (脱去的水分子数 + 二硫键个数) \times 2 $$<br>$$ O原子数 = 各氨基酸中O原子的总数 - 脱去的水分子数 $$<br>$$ O原子数 = 肽键数 + 肽链数 \times 2 +R基上O原子数 $$<br>$$ N原子数 = 各氨基酸中N原子的总数 $$<br>$$ N原子数 = 肽键数 + 肽链数 + R基上N原子数 $$</p>
+<hr>
+<h2><span id="第三章-细胞的基本结构">第三章 细胞的基本结构</span></h2><h3><span id="探究细胞膜结构的历程">探究细胞膜结构的历程</span></h3><p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200517192917.jpg" alt></p>
+<hr>
+<h3><span id="探究细胞膜成分的实验设计">探究细胞膜成分的实验设计</span></h3><ul>
+<li>脂质 ①<ol>
+<li>用溶解脂质的溶剂处理细胞膜</li>
+<li>细胞膜被溶解</li>
+<li>细胞膜含有脂质成分</li>
+</ol>
+</li>
+<li>脂质②<ol>
+<li>脂溶性物质通过实验</li>
+<li>脂溶性物质优先通过细胞膜</li>
+<li>细胞膜含有脂质成分</li>
+</ol>
+</li>
+<li>蛋白质①<ol>
+<li>用蛋白酶处理细胞膜</li>
+<li>细胞膜被破坏</li>
+<li>细胞膜含有蛋白质</li>
+</ol>
+</li>
+<li>蛋白质②<ol>
+<li>制备细胞膜样液</li>
+<li>加入双缩脲试剂</li>
+<li>出现紫色反应</li>
+<li>细胞膜含有蛋白质</li>
+</ol>
+</li>
+<li>糖蛋白<ol>
+<li>制备细胞膜样液</li>
+<li>加入斐林试剂</li>
+<li>水浴加热</li>
+<li>出现砖红色沉淀</li>
+<li>蛋白质检验（略）</li>
+<li>细胞膜含有糖蛋白</li>
+</ol>
+</li>
+</ul>
+<hr>
+<h3><span id="探究细胞膜功能的实验设计">探究细胞膜功能的实验设计</span></h3><ul>
+<li>控制物质进出①<ol>
+<li>红墨水处理正常的玉米种子</li>
+<li>玉米种子不显红色</li>
+<li>红墨水处理煮熟的玉米种子</li>
+<li>玉米种子显红色</li>
+</ol>
+</li>
+<li>控制物质进出②<ol>
+<li>将有颜色的植物组织放入清水中</li>
+<li>高温处理</li>
+<li>强酸处理</li>
+<li>强碱处理</li>
+<li>观察实验前后清水的颜色变化</li>
+</ol>
+</li>
+<li>信息识别<ol>
+<li>大量同种生物和亲缘关系较远的生物的精子和卵细胞混合</li>
+<li>观察细胞融合</li>
+<li>只有同种生物的精子和卵细胞才能融合</li>
+</ol>
+</li>
+</ul>
+<hr>
+<h3><span id="分泌蛋白的实验注意">分泌蛋白的实验注意</span></h3><ul>
+<li>用放射性元素标记氨基酸后，按照放射性出现的时间先后 <ol>
+<li>核糖体</li>
+<li>粗面内质网</li>
+<li>高尔基体</li>
+<li>分泌小泡</li>
+</ol>
+</li>
+<li>在分泌蛋白加工和运输过程中<ol>
+<li>粗面内质网膜面积相对减小</li>
+<li>细胞膜面积相对增大</li>
+<li>高尔基体膜面积基本不变</li>
+</ol>
+</li>
+</ul>
+<hr>
+<h3><span id="生物模型的分类">生物模型的分类</span></h3><p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200517181227.png" alt><br><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200517181237.png" alt><br><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200517181246.png" alt></p>
+<hr>
+<h2><span id="第四章-细胞的物质输入和输出">第四章 细胞的物质输入和输出</span></h2><hr>
+<h2><span id="第五章-细胞的能量供应和利用">第五章 细胞的能量供应和利用</span></h2><h3><span id="酶本质的探索">酶本质的探索</span></h3><ol>
+<li><strong>1773年</strong>，意大利科学家斯<strong>帕兰扎尼</strong>做了一个巧妙的实验：将肉块放入小巧的金属笼中，然后让鹰吞下去。过一段时间他将小笼取出，发现肉块消失了。于是，他推断胃液中一定含有消化肉块的物质。</li>
+<li><strong>1810年</strong>，<strong>Jaseph Gaylussac</strong>发现酵母可将糖转化为酒精。</li>
+<li><strong>1857年</strong>，法国微生物学家<strong>巴斯德</strong>通过显微镜观察,提出酒精发酵是由于酵母细胞活动的结果，即离不开酵母活细胞；<strong>李比希</strong>反对这种观点，认为引起发酵的是酵母细胞中的某些物质。</li>
+<li><strong>1897年</strong>，德国化学家<strong>毕希纳</strong>把酵母细胞放在石英砂中用力研磨，加水搅拌，在进行加压过滤，得到不含酵母的提取液，在这些汁液中加入葡萄糖，一段时间后就冒出气泡，糖液居然变成了酒，后来科学家就把它命名为“酶”，英文名称是Enzyme，意思是“在酵母中”。</li>
+<li><strong>1926年</strong>，美国科学家<strong>萨姆钠</strong>从刀豆种子中提取出脲酶的结晶，并通过化学实验证实脲酶是一种蛋白质。</li>
+<li><strong>20世纪30年代</strong>，科学家们相继提取出多种酶的蛋白质结晶，并指出酶是一类具有生物催化作用的蛋白质。</li>
+<li><strong>20世纪80年代</strong>，美国科学家<strong>切赫</strong>和<strong>奥特曼</strong>发现少数RNA也具有生物催化作用。 </li>
+</ol>
+<hr>
+<h2><span id="第五章-细胞的能量供应和利用">第五章 细胞的能量供应和利用</span></h2><h3><span id="色素提取分离试验">色素提取分离试验</span></h3><p><strong>二氧化硅</strong>：充分研磨<br><strong>碳酸钙</strong>：防止研磨过程中色素被破坏<br><strong>无水乙醇</strong>：溶解色素（95%+一点点无水碳酸钠）<br><strong>层析液</strong>：是色素扩散并分离<br><strong>棉塞</strong>：防止无水乙醇挥发<br><strong>滤液细线</strong>：</p>
+<ul>
+<li>直：使分离出来的色素带整齐</li>
+<li>层析液不能碰：防止色素溶解在层析液中</li>
+<li>多画几次：使分离出来的色素带清晰分明</li>
+</ul>
+<p><strong>迅速、充分研磨</strong>：防止乙醇挥发和色素氧化<br><strong>滤纸干燥</strong>：层析液在滤纸上快速扩散<br><strong>试管、小烧杯加盖</strong>：防止层析液中的成分挥发</p>
+<table>
+<thead>
+<tr>
+<th align="center">色素种类</th>
+<th align="center">色素颜色</th>
+<th align="center">色素含量</th>
+<th align="center">溶解度</th>
+<th align="center">扩散速度</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">胡萝卜素</td>
+<td align="center">橙黄色</td>
+<td align="center">最少</td>
+<td align="center">最高</td>
+<td align="center">最快</td>
+</tr>
+<tr>
+<td align="center">叶黄素</td>
+<td align="center">黄色</td>
+<td align="center">较少</td>
+<td align="center">较高</td>
+<td align="center">较快</td>
+</tr>
+<tr>
+<td align="center">叶绿素a</td>
+<td align="center">蓝绿色</td>
+<td align="center">最多</td>
+<td align="center">较低</td>
+<td align="center">较慢</td>
+</tr>
+<tr>
+<td align="center">叶绿素b</td>
+<td align="center">黄绿色</td>
+<td align="center">较多</td>
+<td align="center">最低</td>
+<td align="center">最慢</td>
+</tr>
+</tbody></table>
+<hr>
+<h3><span id="光合作用的探究历程">光合作用的探究历程</span></h3><p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200517192922.jpg" alt></p>
+<hr>
+<h2><span id="第六章-细胞的生命历程">第六章 细胞的生命历程</span></h2><hr>
+<h1><span id="必修二">必修二</span></h1></div><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta">文章作者: </span><span class="post-copyright-info"><a href="mailto:undefined">pigz2538</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta">文章链接: </span><span class="post-copyright-info"><a href="https://pigz2538.github.io/2020/05/17/%E7%94%9F%E7%89%A9%E8%BE%B9%E7%BC%98%E7%9F%A5%E8%AF%86%E7%82%B9/">https://pigz2538.github.io/2020/05/17/生物边缘知识点/</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta">版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://pigz2538.github.io" target="_blank">Pilog</a>！</span></div></div><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/%E5%AD%A6%E4%B9%A0/">学习</a><a class="post-meta__tags" href="/tags/%E9%AB%98%E8%80%83/">高考</a><a class="post-meta__tags" href="/tags/%E7%94%9F%E7%89%A9/">生物</a></div><div class="post_share"><div class="social-share" data-image="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20210610203631.jpg" data-sites="facebook,twitter,wechat,weibo,qq"></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/social-share.js/dist/css/share.min.css"/><script src="https://cdn.jsdelivr.net/npm/social-share.js/dist/js/social-share.min.js"></script></div></div><nav class="pagination_post" id="pagination"><div class="prev-post pull_left"><a href="/2020/05/23/%E3%80%8A%E5%AF%B9%E8%87%AA%E5%B7%B1%E7%9A%84%E6%8E%A2%E8%AE%A8%E3%80%8B/"><img class="prev_cover" data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504215701.png" onerror="onerror=null;src='/img/404.jpg'"><div class="pagination-info"><div class="label">上一篇</div><div class="prev_info">对自己的一些分析</div></div></a></div><div class="next-post pull_right"><a href="/2020/05/10/%E8%BD%AC%E8%BD%BD%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9F%BA%E5%B0%BC%E7%B3%BB%E6%95%B0%E6%98%AF%E5%A4%9A%E5%B0%91%EF%BC%9F/"><img class="next_cover" data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200510212017.jpg" onerror="onerror=null;src='/img/404.jpg'"><div class="pagination-info"><div class="label">下一篇</div><div class="next_info">转载：中国的基尼系数是多少？</div></div></a></div></nav><div class="relatedPosts"><div class="relatedPosts_headline"><i class="fa fa-fw fa-thumbs-up" aria-hidden="true"></i><span> 相关推荐</span></div><div class="relatedPosts_list"><div class="relatedPosts_item"><a href="/2020/05/04/Html-CSS启蒙/" title="Html/CSS启蒙"><img class="relatedPosts_cover" data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504222831.jpg"><div class="relatedPosts_main is-center"><div class="relatedPosts_date"><i class="fa fa-calendar fa-fw" aria-hidden="true"></i> 2020-05-04</div><div class="relatedPosts_title">Html/CSS启蒙</div></div></a></div><div class="relatedPosts_item"><a href="/2020/05/10/转载：中国的基尼系数是多少？/" title="转载：中国的基尼系数是多少？"><img class="relatedPosts_cover" data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200510212017.jpg"><div class="relatedPosts_main is-center"><div class="relatedPosts_date"><i class="fa fa-calendar fa-fw" aria-hidden="true"></i> 2020-05-10</div><div class="relatedPosts_title">转载：中国的基尼系数是多少？</div></div></a></div><div class="relatedPosts_item"><a href="/2020/05/23/《对自己的探讨》/" title="对自己的一些分析"><img class="relatedPosts_cover" data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504215701.png"><div class="relatedPosts_main is-center"><div class="relatedPosts_date"><i class="fa fa-calendar fa-fw" aria-hidden="true"></i> 2020-05-23</div><div class="relatedPosts_title">对自己的一些分析</div></div></a></div></div><div class="clear_both"></div></div></article></main><footer id="footer" data-type="color"><div id="footer-wrap"><div class="copyright">&copy;2020 - 2021 By pigz2538</div><div class="framework-info"><span>驱动 </span><a href="https://hexo.io" target="_blank" rel="noopener"><span>Hexo</span></a><span class="footer-separator">|</span><span>主题 </span><a href="https://github.com/jerryc127/hexo-theme-butterfly" target="_blank" rel="noopener"><span>Butterfly</span></a></div><div class="footer_custom_text">Alice~!Alice~!foo↑foo↑</div></div></footer></div><section class="rightside" id="rightside"><div id="rightside-config-hide"><i class="fa fa-book" id="readmode" title="阅读模式"></i><i class="fa fa-plus" id="font_plus" title="放大字体"></i><i class="fa fa-minus" id="font_minus" title="缩小字体"></i><a class="translate_chn_to_cht" id="translateLink" href="javascript:translatePage();" title="简繁转换" target="_self">繁</a><i class="darkmode fa fa-moon-o" id="darkmode" title="夜间模式"></i></div><div id="rightside-config-show"><div id="rightside_config" title="设置"><i class="fa fa-cog" aria-hidden="true"></i></div><i class="fa fa-list-ul close" id="mobile-toc-button" title="目录" aria-hidden="true"></i><i class="fa fa-arrow-up" id="go-up" title="回到顶部" aria-hidden="true"></i></div></section><div class="search-dialog" id="local-search"><div class="search-dialog__title" id="local-search-title">本地搜索</div><div id="local-input-panel"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="搜索文章" type="text"/></div></div></div><hr/><div id="local-search-results"><div id="local-hits"></div><div id="local-stats"><div class="local-search-stats__hr" id="hr"><span>由</span> <a href="https://github.com/wzpan/hexo-generator-search" target="_blank" rel="noopener" style="color:#49B1F5;">hexo-generator-search</a>
+ <span>提供支持</span></div></div></div><span class="search-close-button"><i class="fa fa-times"></i></span></div><div class="search-mask"></div><script src="https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js"></script><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="/js/tw_cn.js"></script><script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.js"></script><script type="text/x-mathjax-config">MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [ ['$','$'], ["\\(","\\)"]  ],
+    processEscapes: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+  },
+  CommonHTML: {
+    linebreaks: { automatic: true, width: "90% container" }
+  },
+  "HTML-CSS": { 
+    linebreaks: { automatic: true, width: "90% container" }
+  },
+  "SVG": { 
+    linebreaks: { automatic: true, width: "90% container" }
+  }
+});
+</script><script type="text/x-mathjax-config">MathJax.Hub.Queue(function() {
+  var all = MathJax.Hub.getAllJax(), i;
+  for (i=0; i < all.length; i += 1) {
+    all[i].SourceElement().parentNode.className += ' has-jax';
+  }
+});
+</script><script src="https://cdn.jsdelivr.net/npm/mathjax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script><script id="ribbon_piao" mobile="false" src="/js/third-party/piao.js"></script><script id="canvas_nest" color="0,0,255" opacity="0.7" zIndex="-1" count="99" mobile="false" src="/js/third-party/canvas-nest.js"></script><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><script src="https://cdn.jsdelivr.net/npm/instant.page@latest/instantpage.min.js" type="module"></script><script src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script><script src="/js/third-party/ClickShowText.js"></script><script src="/js/search/local-search.js"></script></body></html>
