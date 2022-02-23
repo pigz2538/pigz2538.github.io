@@ -59,25 +59,20 @@
       </tags>
   </entry>
   <entry>
-    <title>Html/CSS启蒙</title>
-    <url>/2020/05/04/Html-CSS%E5%90%AF%E8%92%99/</url>
-    <content><![CDATA[<h1><span id="发现个学习htmlcss的好网站">发现个学习Html/CSS的好网站</span></h1><p>就这个<br><a href="https://www.w3school.com.cn/" target="_blank" rel="noopener">https://www.w3school.com.cn/</a></p>
-<p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504225723.png" alt></p>
-<p>看起来挺爽的，查资料啥的也方便，主要有时候markdown语法和网页渲染冲突啥的，比如<span style="border-bottom:2px solid red;">下划线</span>。</p>
-<div class="hide-block"><a class="hide-button button--primary button--animated" style>如何实现下划线？
-    </a><span class="hide-content"><p>上边这个是这样实现的：<br><code>&lt;span style=&quot;border-bottom:2px solid red;&quot;&gt;下划线&lt;/span&gt;</code></p><p>实际上是巧用了CSS的边框，还有多种可供选择。</p><p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504225719.png" alt></p></span></div>
-
-
-
+    <title>换了个主题</title>
+    <url>/2020/05/02/%E6%8D%A2%E4%BA%86%E4%B8%AA%E4%B8%BB%E9%A2%98/</url>
+    <content><![CDATA[<p>又浪费了一些时间</p>
+<p>主题Butterfly，看起来8错，就是图片啥的明天鼓捣鼓捣换换，加载速度8太彳亍。</p>
+<p>live2d咋都换不了，就只能用这个<del>老婆</del>了，位置啥的还得调节调节。</p>
+<p>为啥啥主题的归档页面都是这啊啊啊啊啊！！！！</p>
+<p>这不能调节:horse:?</p>
+<p>（↑顺便测试一下markdown的emoji）</p>
 ]]></content>
       <categories>
-        <category>收藏</category>
+        <category>网站历史</category>
       </categories>
       <tags>
-        <tag>学习</tag>
-        <tag>Html</tag>
-        <tag>CSS</tag>
-        <tag>网站推荐</tag>
+        <tag>历史</tag>
       </tags>
   </entry>
   <entry>
@@ -99,6 +94,28 @@
       </categories>
       <tags>
         <tag>历史</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Html/CSS启蒙</title>
+    <url>/2020/05/04/Html-CSS%E5%90%AF%E8%92%99/</url>
+    <content><![CDATA[<h1><span id="发现个学习htmlcss的好网站">发现个学习Html/CSS的好网站</span></h1><p>就这个<br><a href="https://www.w3school.com.cn/" target="_blank" rel="noopener">https://www.w3school.com.cn/</a></p>
+<p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504225723.png" alt></p>
+<p>看起来挺爽的，查资料啥的也方便，主要有时候markdown语法和网页渲染冲突啥的，比如<span style="border-bottom:2px solid red;">下划线</span>。</p>
+<div class="hide-block"><a class="hide-button button--primary button--animated" style>如何实现下划线？
+    </a><span class="hide-content"><p>上边这个是这样实现的：<br><code>&lt;span style=&quot;border-bottom:2px solid red;&quot;&gt;下划线&lt;/span&gt;</code></p><p>实际上是巧用了CSS的边框，还有多种可供选择。</p><p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504225719.png" alt></p></span></div>
+
+
+
+]]></content>
+      <categories>
+        <category>收藏</category>
+      </categories>
+      <tags>
+        <tag>学习</tag>
+        <tag>Html</tag>
+        <tag>CSS</tag>
+        <tag>网站推荐</tag>
       </tags>
   </entry>
   <entry>
@@ -124,23 +141,6 @@
       </categories>
       <tags>
         <tag>开始</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>换了个主题</title>
-    <url>/2020/05/02/%E6%8D%A2%E4%BA%86%E4%B8%AA%E4%B8%BB%E9%A2%98/</url>
-    <content><![CDATA[<p>又浪费了一些时间</p>
-<p>主题Butterfly，看起来8错，就是图片啥的明天鼓捣鼓捣换换，加载速度8太彳亍。</p>
-<p>live2d咋都换不了，就只能用这个<del>老婆</del>了，位置啥的还得调节调节。</p>
-<p>为啥啥主题的归档页面都是这啊啊啊啊啊！！！！</p>
-<p>这不能调节:horse:?</p>
-<p>（↑顺便测试一下markdown的emoji）</p>
-]]></content>
-      <categories>
-        <category>网站历史</category>
-      </categories>
-      <tags>
-        <tag>历史</tag>
       </tags>
   </entry>
   <entry>
@@ -475,6 +475,35 @@
       </tags>
   </entry>
   <entry>
+    <title>博客部署到Coding</title>
+    <url>/2020/05/10/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E5%88%B0Coding/</url>
+    <content><![CDATA[<h1><span id="主要github有点慢">主要github有点慢</span></h1><p>写《后浪》评论文章时候感觉github好慢啊啊啊啊，<br>于是就把部署到Coding提上日程了，现在是双线部署。</p>
+<p>主要看的这篇文章：<a href="https://cloud.tencent.com/developer/article/1580237" target="_blank" rel="noopener" title="Hexo博客部署到码云和Coding">部署Coding</a></p>
+<p>挺详细的，但也有差错。<br>遇到的坑有：</p>
+<ol>
+<li>静态网站需要实名认证，文章没说。</li>
+<li>我之前Github居然没搞ssh公钥，惊了，就输入了 <code>ssh-keygen -o</code> 啥的。</li>
+<li>文章中有句话<blockquote>
+<p>然后打开<code>cmd</code>控制台输入<code>ssh -T git@git.coding.net</code><br>实际上应该是 <code>git@[username].coding.net</code></p>
+</blockquote>
+</li>
+</ol>
+<p>比如我的</p>
+<blockquote>
+<p>ssh -T <a href="mailto:git@pigz2538.coding.net">git@pigz2538.coding.net</a></p>
+</blockquote>
+<ol start="4">
+<li>把<code>_config.yml</code>的<code>root</code>从 <code>/pigz2538.github.io/</code> 改成<code>/</code> ，CSS便可以正常加载了。</li>
+</ol>
+]]></content>
+      <categories>
+        <category>网站历史</category>
+      </categories>
+      <tags>
+        <tag>历史</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《共产党宣言》</title>
     <url>/2020/05/09/%E3%80%8A%E5%85%B1%E4%BA%A7%E5%85%9A%E5%AE%A3%E8%A8%80%E3%80%8B/</url>
     <content><![CDATA[<center><strong><font color="#000000" size="18" face="黑体">《共产党宣言》</font></strong></center> 
@@ -700,35 +729,6 @@
       <tags>
         <tag>文献</tag>
         <tag>共产主义</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>博客部署到Coding</title>
-    <url>/2020/05/10/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E5%88%B0Coding/</url>
-    <content><![CDATA[<h1><span id="主要github有点慢">主要github有点慢</span></h1><p>写《后浪》评论文章时候感觉github好慢啊啊啊啊，<br>于是就把部署到Coding提上日程了，现在是双线部署。</p>
-<p>主要看的这篇文章：<a href="https://cloud.tencent.com/developer/article/1580237" target="_blank" rel="noopener" title="Hexo博客部署到码云和Coding">部署Coding</a></p>
-<p>挺详细的，但也有差错。<br>遇到的坑有：</p>
-<ol>
-<li>静态网站需要实名认证，文章没说。</li>
-<li>我之前Github居然没搞ssh公钥，惊了，就输入了 <code>ssh-keygen -o</code> 啥的。</li>
-<li>文章中有句话<blockquote>
-<p>然后打开<code>cmd</code>控制台输入<code>ssh -T git@git.coding.net</code><br>实际上应该是 <code>git@[username].coding.net</code></p>
-</blockquote>
-</li>
-</ol>
-<p>比如我的</p>
-<blockquote>
-<p>ssh -T <a href="mailto:git@pigz2538.coding.net">git@pigz2538.coding.net</a></p>
-</blockquote>
-<ol start="4">
-<li>把<code>_config.yml</code>的<code>root</code>从 <code>/pigz2538.github.io/</code> 改成<code>/</code> ，CSS便可以正常加载了。</li>
-</ol>
-]]></content>
-      <categories>
-        <category>网站历史</category>
-      </categories>
-      <tags>
-        <tag>历史</tag>
       </tags>
   </entry>
   <entry>
@@ -1062,6 +1062,19 @@
       </tags>
   </entry>
   <entry>
+    <title>重新出发！！！</title>
+    <url>/2021/06/10/%E9%87%8D%E6%96%B0%E5%87%BA%E5%8F%91%EF%BC%81%EF%BC%81%EF%BC%81/</url>
+    <content><![CDATA[<p>鼓捣了一天，可算鼓捣差不多了！<br>高考完了坚持日更！<br>加油我可以！</p>
+<p>记录一下坑<br>coding好像不免费了<br>githubtoken什么突然没了<br>picgo连不上需要一堆代理<br>hexo 多多clean<br>post要用.md和UTF-8</p>
+]]></content>
+      <categories>
+        <category>随想录</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>怪</title>
     <url>/2021/06/11/%E6%80%AA/</url>
     <content><![CDATA[<p>真是奇怪！真是奇怪！真是奇怪！<br>昨天晚上，在hexo推送博客，突然404了<br>很慌，怎么弄都不行；</p>
@@ -1087,19 +1100,6 @@
       </tags>
   </entry>
   <entry>
-    <title>重新出发！！！</title>
-    <url>/2021/06/10/%E9%87%8D%E6%96%B0%E5%87%BA%E5%8F%91%EF%BC%81%EF%BC%81%EF%BC%81/</url>
-    <content><![CDATA[<p>鼓捣了一天，可算鼓捣差不多了！<br>高考完了坚持日更！<br>加油我可以！</p>
-<p>记录一下坑<br>coding好像不免费了<br>githubtoken什么突然没了<br>picgo连不上需要一堆代理<br>hexo 多多clean<br>post要用.md和UTF-8</p>
-]]></content>
-      <categories>
-        <category>随想录</category>
-      </categories>
-      <tags>
-        <tag>随笔</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>考驾照之路1</title>
     <url>/2021/06/11/%E8%80%83%E9%A9%BE%E7%85%A7%E4%B9%8B%E8%B7%AF1/</url>
     <content><![CDATA[<p>哇哇，要考科目一了，先去体检，测测视力看看色盲然后活动活动手脚。<br>居然要28.5RMB，好贵；<br>心疼钱钱。</p>
@@ -1110,19 +1110,6 @@
       </categories>
       <tags>
         <tag>学习</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>CUPT测试</title>
-    <url>/2022/02/23/CUPT%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<h1><span id="测试">测试</span></h1><p>哈哈哈</p>
-]]></content>
-      <categories>
-        <category>物理</category>
-      </categories>
-      <tags>
-        <tag>物理</tag>
-        <tag>CUPT</tag>
       </tags>
   </entry>
   <entry>
@@ -1152,6 +1139,19 @@
       <tags>
         <tag>随笔</tag>
         <tag>影评</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>CUPT测试</title>
+    <url>/2022/02/23/CUPT%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<h1><span id="测试">测试</span></h1><p>哈哈哈</p>
+]]></content>
+      <categories>
+        <category>物理</category>
+      </categories>
+      <tags>
+        <tag>物理</tag>
+        <tag>CUPT</tag>
       </tags>
   </entry>
 </search>
