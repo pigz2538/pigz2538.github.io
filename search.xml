@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>啊就这了</title>
+    <url>/2020/05/02/%E5%95%8A%E5%B0%B1%E8%BF%99%E4%BA%86/</url>
+    <content><![CDATA[<blockquote>
+<p>就这？就这！！！</p>
+</blockquote>
+<p>啊这几天鼓捣这玩意浪费了许多时间，<br>之后就基本更更博文啥的，不想乱动其它东西了。</p>
+<p>随便一动博客就404，或者有控件啥的不加载。<br>比如似乎neat压缩博文和我有仇，一压缩顶部就不显示，淦！！！</p>
+<p>现在大多数页面能点进去了，好！</p>
+<p>对了，封面图回来多找找，这些显然不够。</p>
+<p>希望以后这个作为博客的试水，主要发学习博文吧！！</p>
+<hr>
+<p>就这！！</p>
+]]></content>
+      <categories>
+        <category>网站历史</category>
+      </categories>
+      <tags>
+        <tag>历史</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2020/05/01/HelloWorld/</url>
     <content><![CDATA[<blockquote>
@@ -33,67 +54,25 @@
       </tags>
   </entry>
   <entry>
-    <title>这里是下午鼓捣图床和编辑器的历程</title>
-    <url>/2020/05/01/%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%8B%E5%8D%88%E9%BC%93%E6%8D%A3%E5%9B%BE%E5%BA%8A%E5%92%8C%E7%BC%96%E8%BE%91%E5%99%A8%E7%9A%84%E5%8E%86%E7%A8%8B/</url>
-    <content><![CDATA[<p><del>啊，我太难了</del></p>
-<h3><span id="首先我要感谢知乎上的这篇文章">首先我要感谢知乎上的这篇文章：</span></h3><p><a href="https://zhuanlan.zhihu.com/p/69210764/" target="_blank" rel="noopener" title="Markdown编辑器比较">一些Markdown编辑器的比较</a></p>
-<p>原本听说过<strong>VS Code</strong>和<strong>Typora</strong>这两款软件，以及使用过网页端的<strong>马克飞象</strong>和<strong>小书虫</strong>，<br>主要网页端挺方便，还支持$\LaTeX$公式，就没咋研究过编辑器。</p>
-<p>现在有了需求，就开始纠结用啥了，其实原本个人更倾向于<strong>VS Code</strong>，毕竟巨硬的东西看起来就赏心悦目，插件也是非常丰富，但苦于对$\LaTeX$支持不好，配置较为麻烦，遂转为<strong>Typora</strong>。</p>
-<p><del>（其实我对$\TeX$系统语法不是很了解，基本上除了基础语法之外都要查表）</del></p>
-<p>当然以后大学有条有时间折腾的话，应该会考虑转为<strong>VS Code</strong>。<br><del>（才不是因为<strong>VS Code</strong>可以自定义图标背景呢！）</del></p>
-<p>不过咱家的电脑也有点过时，<strong>Typora</strong>整个应用程序都会有点视觉暂留，这绝对是显卡的锅。<br>能用就行，反正香就完事了~</p>
-<h3><span id="接着就是寻找图床">接着就是寻找图床</span></h3><p>非常感谢发达的互联网，已经有许多人分享了自己的经验，为我们这些后辈减少了许多的弯路。<br>经过一番文章对比与分析，作为年收入为负数的我，毅然选择了<strong>PicGo + Github</strong>的方式。</p>
-<p><a href="https://zhuanlan.zhihu.com/p/69210764/" target="_blank" rel="noopener" title="GitHub+PicGo构建免费图床及其高效使用">图床教程1</a><br><a href="https://www.jianshu.com/p/4cd14d4ceb1d/" target="_blank" rel="noopener" title="手把手教你用Typora自动上传到picgo图床【教程与排坑】">图床教程2</a></p>
-<p>这两篇综合起来，还是挺全面的，其它的给我挖了一些坑。<br>（比如PicGo 的 Github 仓库填写以及上传图片时间戳啥的。）</p>
-<p>其中坑包括但不限于：</p>
-<p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200501155723.png" alt="仓库名称前边的用户名" title="仓库名称前边的用户名"></p>
-<p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200501160021.png" alt="图片时间戳防重名" title="图片时间戳防重名"></p>
-<p>对了，顺便一提，图片用的<strong>jsdelivr</strong>的CDN进行加速。</p>
-<p>啊，晚上再进行一些优化吧。</p>
+    <title>Html/CSS启蒙</title>
+    <url>/2020/05/04/Html-CSS%E5%90%AF%E8%92%99/</url>
+    <content><![CDATA[<h1><span id="发现个学习htmlcss的好网站">发现个学习Html/CSS的好网站</span></h1><p>就这个<br><a href="https://www.w3school.com.cn/" target="_blank" rel="noopener">https://www.w3school.com.cn/</a></p>
+<p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504225723.png" alt></p>
+<p>看起来挺爽的，查资料啥的也方便，主要有时候markdown语法和网页渲染冲突啥的，比如<span style="border-bottom:2px solid red;">下划线</span>。</p>
+<div class="hide-block"><a class="hide-button button--primary button--animated" style>如何实现下划线？
+    </a><span class="hide-content"><p>上边这个是这样实现的：<br><code>&lt;span style=&quot;border-bottom:2px solid red;&quot;&gt;下划线&lt;/span&gt;</code></p><p>实际上是巧用了CSS的边框，还有多种可供选择。</p><p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504225719.png" alt></p></span></div>
+
+
+
 ]]></content>
       <categories>
-        <category>网站历史</category>
+        <category>收藏</category>
       </categories>
       <tags>
-        <tag>历史</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>换了个主题</title>
-    <url>/2020/05/02/%E6%8D%A2%E4%BA%86%E4%B8%AA%E4%B8%BB%E9%A2%98/</url>
-    <content><![CDATA[<p>又浪费了一些时间</p>
-<p>主题Butterfly，看起来8错，就是图片啥的明天鼓捣鼓捣换换，加载速度8太彳亍。</p>
-<p>live2d咋都换不了，就只能用这个<del>老婆</del>了，位置啥的还得调节调节。</p>
-<p>为啥啥主题的归档页面都是这啊啊啊啊啊！！！！</p>
-<p>这不能调节:horse:?</p>
-<p>（↑顺便测试一下markdown的emoji）</p>
-]]></content>
-      <categories>
-        <category>网站历史</category>
-      </categories>
-      <tags>
-        <tag>历史</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>啊就这了</title>
-    <url>/2020/05/02/%E5%95%8A%E5%B0%B1%E8%BF%99%E4%BA%86/</url>
-    <content><![CDATA[<blockquote>
-<p>就这？就这！！！</p>
-</blockquote>
-<p>啊这几天鼓捣这玩意浪费了许多时间，<br>之后就基本更更博文啥的，不想乱动其它东西了。</p>
-<p>随便一动博客就404，或者有控件啥的不加载。<br>比如似乎neat压缩博文和我有仇，一压缩顶部就不显示，淦！！！</p>
-<p>现在大多数页面能点进去了，好！</p>
-<p>对了，封面图回来多找找，这些显然不够。</p>
-<p>希望以后这个作为博客的试水，主要发学习博文吧！！</p>
-<hr>
-<p>就这！！</p>
-]]></content>
-      <categories>
-        <category>网站历史</category>
-      </categories>
-      <tags>
-        <tag>历史</tag>
+        <tag>学习</tag>
+        <tag>Html</tag>
+        <tag>CSS</tag>
+        <tag>网站推荐</tag>
       </tags>
   </entry>
   <entry>
@@ -119,28 +98,6 @@
       </categories>
       <tags>
         <tag>开始</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Html/CSS启蒙</title>
-    <url>/2020/05/04/Html-CSS%E5%90%AF%E8%92%99/</url>
-    <content><![CDATA[<h1><span id="发现个学习htmlcss的好网站">发现个学习Html/CSS的好网站</span></h1><p>就这个<br><a href="https://www.w3school.com.cn/" target="_blank" rel="noopener">https://www.w3school.com.cn/</a></p>
-<p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504225723.png" alt></p>
-<p>看起来挺爽的，查资料啥的也方便，主要有时候markdown语法和网页渲染冲突啥的，比如<span style="border-bottom:2px solid red;">下划线</span>。</p>
-<div class="hide-block"><a class="hide-button button--primary button--animated" style>如何实现下划线？
-    </a><span class="hide-content"><p>上边这个是这样实现的：<br><code>&lt;span style=&quot;border-bottom:2px solid red;&quot;&gt;下划线&lt;/span&gt;</code></p><p>实际上是巧用了CSS的边框，还有多种可供选择。</p><p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200504225719.png" alt></p></span></div>
-
-
-
-]]></content>
-      <categories>
-        <category>收藏</category>
-      </categories>
-      <tags>
-        <tag>学习</tag>
-        <tag>Html</tag>
-        <tag>CSS</tag>
-        <tag>网站推荐</tag>
       </tags>
   </entry>
   <entry>
@@ -475,35 +432,6 @@
       </tags>
   </entry>
   <entry>
-    <title>博客部署到Coding</title>
-    <url>/2020/05/10/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E5%88%B0Coding/</url>
-    <content><![CDATA[<h1><span id="主要github有点慢">主要github有点慢</span></h1><p>写《后浪》评论文章时候感觉github好慢啊啊啊啊，<br>于是就把部署到Coding提上日程了，现在是双线部署。</p>
-<p>主要看的这篇文章：<a href="https://cloud.tencent.com/developer/article/1580237" target="_blank" rel="noopener" title="Hexo博客部署到码云和Coding">部署Coding</a></p>
-<p>挺详细的，但也有差错。<br>遇到的坑有：</p>
-<ol>
-<li>静态网站需要实名认证，文章没说。</li>
-<li>我之前Github居然没搞ssh公钥，惊了，就输入了 <code>ssh-keygen -o</code> 啥的。</li>
-<li>文章中有句话<blockquote>
-<p>然后打开<code>cmd</code>控制台输入<code>ssh -T git@git.coding.net</code><br>实际上应该是 <code>git@[username].coding.net</code></p>
-</blockquote>
-</li>
-</ol>
-<p>比如我的</p>
-<blockquote>
-<p>ssh -T <a href="mailto:git@pigz2538.coding.net">git@pigz2538.coding.net</a></p>
-</blockquote>
-<ol start="4">
-<li>把<code>_config.yml</code>的<code>root</code>从 <code>/pigz2538.github.io/</code> 改成<code>/</code> ，CSS便可以正常加载了。</li>
-</ol>
-]]></content>
-      <categories>
-        <category>网站历史</category>
-      </categories>
-      <tags>
-        <tag>历史</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>转载：中国的基尼系数是多少？</title>
     <url>/2020/05/10/%E8%BD%AC%E8%BD%BD%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9F%BA%E5%B0%BC%E7%B3%BB%E6%95%B0%E6%98%AF%E5%A4%9A%E5%B0%91%EF%BC%9F/</url>
     <content><![CDATA[<p>觉得这篇文章写得挺好的，转载一下。<br>原作地址： <a href="https://www.zhihu.com/question/292060598/answer/480718053" target="_blank" rel="noopener" title="基尼系数">中国的基尼系数是多少？</a></p>
@@ -607,15 +535,32 @@
       </tags>
   </entry>
   <entry>
-    <title>对自己的一些分析</title>
-    <url>/2020/05/23/%E3%80%8A%E5%AF%B9%E8%87%AA%E5%B7%B1%E7%9A%84%E6%8E%A2%E8%AE%A8%E3%80%8B/</url>
-    <content><![CDATA[<div id="hexo-blog-encrypt" data-wpm="No password.No article!" data-whm="Ah Zhe..."><div class="hbe-input-container"><input type="password" id="hbePass" placeholder="Here should be typed the right password.XD  (Try it with my birthday agian!)" /><label>Here should be typed the right password.XD  (Try it with my birthday agian!)</label><div class="bottom-line"></div></div><script id="hbeData" type="hbeData" data-hmacdigest="5e1df7959ddc86166919a64cc0bc346c6f6f9b5203b95b61c1a5c242c62fd89f">edecccb79545eb52c9512be28f5e69a050fabbc15a98f65a83bf5e139691278959432818013980c57aa740b1663ac46253e17d434a3f31c811331bda38a11b9e22385467937ae76ca160b07360487fd567c0d972b8f6bee4cb694232e553418d04985a9db67884be7e92cd3f217fbe803d75995a1a38df5ebb5a330274855bc84aeb0c059b9584c0211a3bd503a433922c8cb1876490ba9b27d2d72f790fd5c3cbfb61c41fc7a94929218cd9123265ad76e5a0fa7b4e9aae3c81b51efcc4ee71e4ea71fbc0668c0c28311babd419268264c0b35845edc8b714f88eb14aef7d40375c011a6f0b1cc005ed9813989d50818d3e060d1d5e2ef5b40d39357008c468db976089571bf352d9b7c2574efd911f7251fb42bf98193b320f942e0f19a43dc62592c7eb453521cfc4843e3353df8b44aad759fdf13b5b08beaea919477bec2bbe8050273d67d1b4ed706138409e655f33a5a55dbbb92610671d03a08e6784a57b85c80951b64905c025afcec130ff422320dfd3999d9b7c30124b661a181d7449c6ff2ea28665eef4b094dd196f219b8e3edb38714fba7432e8e1faedafb93781df189430b0a93de93f378d2de02781f88fa27a1706ed1f1c3d2550353fddd7b8658de9921566172e7405cfbd7ad826f0cd4597aa8779d82598bf93509875349b5d0b26cb56f9cb128125cbaad765582d1762db224cd0510a23f8e27ba8c173f4d7e571afba3ec8c5ce54ff894d2212a3fc822e60b1be7908d6644ec7b68ddbb9684129c459fcf8ff892aae4ceeb308dfe8770e97c1847d14ed0429759ac40f6889480ead88eff62973556196737913b09d450078521a373acbc7ba83f84bc93b05b4f932b9be8095e620f173ec270406ea47b5ad35ba1e1eea5a7583d4411e34583a849993b26b8a44b9e44f854ee754bd74c22d6291b752fd7fc734d2420362adc2de77dc126c5f0ba3675dd141fe2fc561c8b20e34ceb6e80be4e6776b80411bdf44c7f0ee846fd405cd853d723b5658a0f2398207123b37f23c47d381dc9ab7e305f5f0f43cb74251e297f81efa1f81dcd9cd3b23fc3f4f481c633a68cf3b6e1d75de461a820e7cddaa006651b6ff4d2a5552c32e118a585e95ecc3df795109179f58506e10a522d57f08106d2cac8ee158c4758e97b7caae840b371626cc92181c8249541375ea13b209b1fc4d654e5a2ab66d9afd46bfb6ef9a79df143f09ad396d88a562da53d77c49276ac8596716cfd2ab65581b9981ef8c3a91642cc96cf8659f9602f05446e5651368138a6aebbbbe79c500debb81d638e912f3dc2b0b981f41b0e2d05c755f374911deec695e21da85e5abe0e70ecedb0fe41f413ee480aaa2a3fe52c231471c4525e4abee87579081d19df9f52c8b38c7959941b61feb8ec31997359280095163292605deb072d40aa64385f07a6dea2ad94e422f5e40ea0fb929c3da34a3cf512c90b4b9ed3e1883d3d4aeba6940e07be71f18389df140730c70497cc7cf1f69037d14d99606ad164be5127b31a8c67a87799064a11a58d0b24cbfefd35f70eb6452d65abe390187b40b2eb168caeee6a49f3f65c8fc1c5e8ba94b7cd672296c31d9264b6cee2f741c26869213a8b70eb7</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    <title>博客部署到Coding</title>
+    <url>/2020/05/10/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E5%88%B0Coding/</url>
+    <content><![CDATA[<h1><span id="主要github有点慢">主要github有点慢</span></h1><p>写《后浪》评论文章时候感觉github好慢啊啊啊啊，<br>于是就把部署到Coding提上日程了，现在是双线部署。</p>
+<p>主要看的这篇文章：<a href="https://cloud.tencent.com/developer/article/1580237" target="_blank" rel="noopener" title="Hexo博客部署到码云和Coding">部署Coding</a></p>
+<p>挺详细的，但也有差错。<br>遇到的坑有：</p>
+<ol>
+<li>静态网站需要实名认证，文章没说。</li>
+<li>我之前Github居然没搞ssh公钥，惊了，就输入了 <code>ssh-keygen -o</code> 啥的。</li>
+<li>文章中有句话<blockquote>
+<p>然后打开<code>cmd</code>控制台输入<code>ssh -T git@git.coding.net</code><br>实际上应该是 <code>git@[username].coding.net</code></p>
+</blockquote>
+</li>
+</ol>
+<p>比如我的</p>
+<blockquote>
+<p>ssh -T <a href="mailto:git@pigz2538.coding.net">git@pigz2538.coding.net</a></p>
+</blockquote>
+<ol start="4">
+<li>把<code>_config.yml</code>的<code>root</code>从 <code>/pigz2538.github.io/</code> 改成<code>/</code> ，CSS便可以正常加载了。</li>
+</ol>
+]]></content>
       <categories>
-        <category>随想录</category>
+        <category>网站历史</category>
       </categories>
       <tags>
-        <tag>学习</tag>
-        <tag>随笔</tag>
+        <tag>历史</tag>
       </tags>
   </entry>
   <entry>
@@ -814,6 +759,18 @@
       </tags>
   </entry>
   <entry>
+    <title>对自己的一些分析</title>
+    <url>/2020/05/23/%E3%80%8A%E5%AF%B9%E8%87%AA%E5%B7%B1%E7%9A%84%E6%8E%A2%E8%AE%A8%E3%80%8B/</url>
+    <content><![CDATA[<div id="hexo-blog-encrypt" data-wpm="No password.No article!" data-whm="Ah Zhe..."><div class="hbe-input-container"><input type="password" id="hbePass" placeholder="Here should be typed the right password.XD  (Try it with my birthday agian!)" /><label>Here should be typed the right password.XD  (Try it with my birthday agian!)</label><div class="bottom-line"></div></div><script id="hbeData" type="hbeData" data-hmacdigest="5e1df7959ddc86166919a64cc0bc346c6f6f9b5203b95b61c1a5c242c62fd89f">edecccb79545eb52c9512be28f5e69a050fabbc15a98f65a83bf5e139691278959432818013980c57aa740b1663ac46253e17d434a3f31c811331bda38a11b9e22385467937ae76ca160b07360487fd567c0d972b8f6bee4cb694232e553418d04985a9db67884be7e92cd3f217fbe803d75995a1a38df5ebb5a330274855bc84aeb0c059b9584c0211a3bd503a433922c8cb1876490ba9b27d2d72f790fd5c3cbfb61c41fc7a94929218cd9123265ad76e5a0fa7b4e9aae3c81b51efcc4ee71e4ea71fbc0668c0c28311babd419268264c0b35845edc8b714f88eb14aef7d40375c011a6f0b1cc005ed9813989d50818d3e060d1d5e2ef5b40d39357008c468db976089571bf352d9b7c2574efd911f7251fb42bf98193b320f942e0f19a43dc62592c7eb453521cfc4843e3353df8b44aad759fdf13b5b08beaea919477bec2bbe8050273d67d1b4ed706138409e655f33a5a55dbbb92610671d03a08e6784a57b85c80951b64905c025afcec130ff422320dfd3999d9b7c30124b661a181d7449c6ff2ea28665eef4b094dd196f219b8e3edb38714fba7432e8e1faedafb93781df189430b0a93de93f378d2de02781f88fa27a1706ed1f1c3d2550353fddd7b8658de9921566172e7405cfbd7ad826f0cd4597aa8779d82598bf93509875349b5d0b26cb56f9cb128125cbaad765582d1762db224cd0510a23f8e27ba8c173f4d7e571afba3ec8c5ce54ff894d2212a3fc822e60b1be7908d6644ec7b68ddbb9684129c459fcf8ff892aae4ceeb308dfe8770e97c1847d14ed0429759ac40f6889480ead88eff62973556196737913b09d450078521a373acbc7ba83f84bc93b05b4f932b9be8095e620f173ec270406ea47b5ad35ba1e1eea5a7583d4411e34583a849993b26b8a44b9e44f854ee754bd74c22d6291b752fd7fc734d2420362adc2de77dc126c5f0ba3675dd141fe2fc561c8b20e34ceb6e80be4e6776b80411bdf44c7f0ee846fd405cd853d723b5658a0f2398207123b37f23c47d381dc9ab7e305f5f0f43cb74251e297f81efa1f81dcd9cd3b23fc3f4f481c633a68cf3b6e1d75de461a820e7cddaa006651b6ff4d2a5552c32e118a585e95ecc3df795109179f58506e10a522d57f08106d2cac8ee158c4758e97b7caae840b371626cc92181c8249541375ea13b209b1fc4d654e5a2ab66d9afd46bfb6ef9a79df143f09ad396d88a562da53d77c49276ac8596716cfd2ab65581b9981ef8c3a91642cc96cf8659f9602f05446e5651368138a6aebbbbe79c500debb81d638e912f3dc2b0b981f41b0e2d05c755f374911deec695e21da85e5abe0e70ecedb0fe41f413ee480aaa2a3fe52c231471c4525e4abee87579081d19df9f52c8b38c7959941b61feb8ec31997359280095163292605deb072d40aa64385f07a6dea2ad94e422f5e40ea0fb929c3da34a3cf512c90b4b9ed3e1883d3d4aeba6940e07be71f18389df140730c70497cc7cf1f69037d14d99606ad164be5127b31a8c67a87799064a11a58d0b24cbfefd35f70eb6452d65abe390187b40b2eb168caeee6a49f3f65c8fc1c5e8ba94b7cd672296c31d9264b6cee2f741c26869213a8b70eb7</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>随想录</category>
+      </categories>
+      <tags>
+        <tag>学习</tag>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>寻找生活的节奏</title>
     <url>/2020/06/20/%E5%AF%BB%E6%89%BE%E7%94%9F%E6%B4%BB%E7%9A%84%E8%8A%82%E5%A5%8F/</url>
     <content><![CDATA[<blockquote>
@@ -834,96 +791,20 @@
       </tags>
   </entry>
   <entry>
-    <title>重新出发！！！</title>
-    <url>/2021/06/10/%E9%87%8D%E6%96%B0%E5%87%BA%E5%8F%91%EF%BC%81%EF%BC%81%EF%BC%81/</url>
-    <content><![CDATA[<p>鼓捣了一天，可算鼓捣差不多了！<br>高考完了坚持日更！<br>加油我可以！</p>
-<p>记录一下坑<br>coding好像不免费了<br>githubtoken什么突然没了<br>picgo连不上需要一堆代理<br>hexo 多多clean<br>post要用.md和UTF-8</p>
+    <title>换了个主题</title>
+    <url>/2020/05/02/%E6%8D%A2%E4%BA%86%E4%B8%AA%E4%B8%BB%E9%A2%98/</url>
+    <content><![CDATA[<p>又浪费了一些时间</p>
+<p>主题Butterfly，看起来8错，就是图片啥的明天鼓捣鼓捣换换，加载速度8太彳亍。</p>
+<p>live2d咋都换不了，就只能用这个<del>老婆</del>了，位置啥的还得调节调节。</p>
+<p>为啥啥主题的归档页面都是这啊啊啊啊啊！！！！</p>
+<p>这不能调节:horse:?</p>
+<p>（↑顺便测试一下markdown的emoji）</p>
 ]]></content>
       <categories>
-        <category>随想录</category>
+        <category>网站历史</category>
       </categories>
       <tags>
-        <tag>随笔</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>怪</title>
-    <url>/2021/06/11/%E6%80%AA/</url>
-    <content><![CDATA[<p>真是奇怪！真是奇怪！真是奇怪！<br>昨天晚上，在hexo推送博客，突然404了<br>很慌，怎么弄都不行；</p>
-<p>按照提示，按了ctrl+C，啪的一声！<br>很快啊！<br><strong>蓝屏了。</strong></p>
-<p>重启过几秒后，所有应用程序都无响应！<br>我还是懂一点应急处理的，开机进入安全模式，打开了！<br><del>这就叫专业！</del></p>
-<p>然后360系统急救箱狂暴轰入。</p>
-<p>扫出来了几个问题，很好！<br>和我想的一样，有几个开机启动有问题，关了！<br><strong>重启！</strong><br>满怀期待！<del>哼哼，就这？</del></p>
-<p>砰！啥都蓝屏了，安全模式也蓝屏。<br>手足无措，开始百度，错误代码狂暴轰入搜索框。</p>
-<p>喔，哦，明白了，开机按着shift+F8，这就操作！<br>滴！！！！！！蜂鸣器报警不止。</p>
-<p>完蛋力，网上给出的方法只有：<br>①可能硬件问题。<br>②<strong>等死吧</strong>，或者重装系统。</p>
-<p>无奈，拿螺丝刀开后盖，纸巾狂暴轰入。<br>我吹！<strong>最古老的人类力量和最先进科技的碰撞</strong>，大概也就是这样罢！</p>
-<p>然后开机，选择最后一次正确设置启动。</p>
-<p><strong>成功了！！！</strong><br><strong>博客也好了！！！</strong></p>
-<p>？为什么博客也好了？我不就是擦擦灰么？</p>
-<p>不管了，能用就行。</p>
-<p>PS：推送这个博文成功也花了好大会儿，最后发现是文件名字里面带了空格。</p>
-]]></content>
-      <categories>
-        <category>随想录</category>
-      </categories>
-      <tags>
-        <tag>随笔</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>考驾照之路1</title>
-    <url>/2021/06/11/%E8%80%83%E9%A9%BE%E7%85%A7%E4%B9%8B%E8%B7%AF1/</url>
-    <content><![CDATA[<p>哇哇，要考科目一了，先去体检，测测视力看看色盲然后活动活动手脚。<br>居然要28.5RMB，好贵；<br>心疼钱钱。</p>
-<p>然后这里记录科目一学习，<br>下了驾考宝典，做了几道题，<br>完全不懂蜜汁解析，<br>决定直接看《道路交通安全法》还有《道路交通安全法实施条例》<br>这才应该是正确打开方式吧！！</p>
-]]></content>
-      <categories>
-        <category>学习</category>
-      </categories>
-      <tags>
-        <tag>学习</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《Hello World》影评</title>
-    <url>/2021/06/12/%E3%80%8AHello-World%E3%80%8B%E5%BD%B1%E8%AF%84/</url>
-    <content><![CDATA[<h1><span id="综述剧透警告">综述（剧透警告）</span></h1><p>本影评将从<strong>剧情，画面，人物，音乐，主题</strong>共五个方面阐述我的个人看法。<br>总体来说影片采用3D/2D结合的方式，画面开始很精美，我也是冲着这个来的。<br>但是中间的特苏鲁元素和快速闪屏有点难受，光敏性癫痫不建议观看。<br>音乐对我来说不出彩，剧情略显老套，即使刻意设置转折。<br>动作戏作画崩坏，后半部分经费不足，体验不算好，一个半小时左右，票价不太值。</p>
-<p>但为什么我打6.8分呢？<strong>女主好看啊啊！！！女主可爱啊啊！！！</strong></p>
-<p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200502171958.jpg" alt></p>
-<p>很早就对这部影片觊觎已久。<del>今日一见，女主果然好看。</del></p>
-<p>但！客观来讲，如果不是女主和开始的作画，我估计会打5分一下！</p>
-<p>下面开始分开讲：</p>
-<h2><span id="剧情-375">剧情 （3.7/5）</span></h2><p>一开始看，是未来男主穿越回来让现在男主拯救女主的故事。<br>不是吧阿sir，都2019年（电影首映时间）了，一个字，土！<br><del>（原谅我的直白）</del></p>
-<p>哆啦A梦，命运石之门，你的名字，都是成功者，楼主，沙发，板凳，地板，快到地心了喂!</p>
-<p>然后，随着视线推进，才了解到男主处于一个大的电脑系统，是虚拟的，<br>好家伙，黑客帝国，甚至有点《I Robot》or《源代码》的味道，太赛博朋克了。</p>
-<p>紧接着，物理外挂，时空外挂都用上了，男主终于拯救成功了。<br>一看时间，不到一个小时啊才？？！<br><strong>反转！</strong> 男主被未来男主利用了，虚拟女主要没了，要用来复活现实女主记忆了！</p>
-<p><del>（好像很多灵异小说桥段，男主怎么献祭复活女主之类的，我称之为赛博灵异事件）</del></p>
-<p>砰！系统出错了！影响现实了！啥都要没了！<br>男主在物理外挂的指导下，克服各种困难，打败崩溃系统，最终抱得美人归的故事。</p>
-<p>影片末尾，是男主醒了的镜头，在一座太空站里，女主叫到“好耶！”<br>结束了，有点强行的反转，有点欧亨利、盗梦空间的感觉。</p>
-<p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20210612225951.png" alt></p>
-<p>总的来说，剧情方面新意不够，有缝合嫌疑，但勉勉强强将来一个还算完整的故事，还算完整的世界观，结尾也可以看成留白，让观众想象最上层世界发生的事情。</p>
-<p><strong>优点：设定有点符合我的口味。</strong><br><strong>缺点：剧情之间逻辑关联不强。</strong></p>
-<p>完蛋，看了外传，世界观理解偏差，推到重写。5555</p>
-]]></content>
-      <categories>
-        <category>影评</category>
-      </categories>
-      <tags>
-        <tag>随笔</tag>
-        <tag>影评</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>CUPT测试</title>
-    <url>/2022/02/23/CUPT%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<h1><span id="测试">测试</span></h1><p>哈哈哈</p>
-]]></content>
-      <categories>
-        <category>物理</category>
-      </categories>
-      <tags>
-        <tag>物理</tag>
-        <tag>CUPT</tag>
+        <tag>历史</tag>
       </tags>
   </entry>
   <entry>
@@ -1152,6 +1033,125 @@
       <tags>
         <tag>文献</tag>
         <tag>共产主义</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>这里是下午鼓捣图床和编辑器的历程</title>
+    <url>/2020/05/01/%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%8B%E5%8D%88%E9%BC%93%E6%8D%A3%E5%9B%BE%E5%BA%8A%E5%92%8C%E7%BC%96%E8%BE%91%E5%99%A8%E7%9A%84%E5%8E%86%E7%A8%8B/</url>
+    <content><![CDATA[<p><del>啊，我太难了</del></p>
+<h3><span id="首先我要感谢知乎上的这篇文章">首先我要感谢知乎上的这篇文章：</span></h3><p><a href="https://zhuanlan.zhihu.com/p/69210764/" target="_blank" rel="noopener" title="Markdown编辑器比较">一些Markdown编辑器的比较</a></p>
+<p>原本听说过<strong>VS Code</strong>和<strong>Typora</strong>这两款软件，以及使用过网页端的<strong>马克飞象</strong>和<strong>小书虫</strong>，<br>主要网页端挺方便，还支持$\LaTeX$公式，就没咋研究过编辑器。</p>
+<p>现在有了需求，就开始纠结用啥了，其实原本个人更倾向于<strong>VS Code</strong>，毕竟巨硬的东西看起来就赏心悦目，插件也是非常丰富，但苦于对$\LaTeX$支持不好，配置较为麻烦，遂转为<strong>Typora</strong>。</p>
+<p><del>（其实我对$\TeX$系统语法不是很了解，基本上除了基础语法之外都要查表）</del></p>
+<p>当然以后大学有条有时间折腾的话，应该会考虑转为<strong>VS Code</strong>。<br><del>（才不是因为<strong>VS Code</strong>可以自定义图标背景呢！）</del></p>
+<p>不过咱家的电脑也有点过时，<strong>Typora</strong>整个应用程序都会有点视觉暂留，这绝对是显卡的锅。<br>能用就行，反正香就完事了~</p>
+<h3><span id="接着就是寻找图床">接着就是寻找图床</span></h3><p>非常感谢发达的互联网，已经有许多人分享了自己的经验，为我们这些后辈减少了许多的弯路。<br>经过一番文章对比与分析，作为年收入为负数的我，毅然选择了<strong>PicGo + Github</strong>的方式。</p>
+<p><a href="https://zhuanlan.zhihu.com/p/69210764/" target="_blank" rel="noopener" title="GitHub+PicGo构建免费图床及其高效使用">图床教程1</a><br><a href="https://www.jianshu.com/p/4cd14d4ceb1d/" target="_blank" rel="noopener" title="手把手教你用Typora自动上传到picgo图床【教程与排坑】">图床教程2</a></p>
+<p>这两篇综合起来，还是挺全面的，其它的给我挖了一些坑。<br>（比如PicGo 的 Github 仓库填写以及上传图片时间戳啥的。）</p>
+<p>其中坑包括但不限于：</p>
+<p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200501155723.png" alt="仓库名称前边的用户名" title="仓库名称前边的用户名"></p>
+<p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200501160021.png" alt="图片时间戳防重名" title="图片时间戳防重名"></p>
+<p>对了，顺便一提，图片用的<strong>jsdelivr</strong>的CDN进行加速。</p>
+<p>啊，晚上再进行一些优化吧。</p>
+]]></content>
+      <categories>
+        <category>网站历史</category>
+      </categories>
+      <tags>
+        <tag>历史</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>重新出发！！！</title>
+    <url>/2021/06/10/%E9%87%8D%E6%96%B0%E5%87%BA%E5%8F%91%EF%BC%81%EF%BC%81%EF%BC%81/</url>
+    <content><![CDATA[<p>鼓捣了一天，可算鼓捣差不多了！<br>高考完了坚持日更！<br>加油我可以！</p>
+<p>记录一下坑<br>coding好像不免费了<br>githubtoken什么突然没了<br>picgo连不上需要一堆代理<br>hexo 多多clean<br>post要用.md和UTF-8</p>
+]]></content>
+      <categories>
+        <category>随想录</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>怪</title>
+    <url>/2021/06/11/%E6%80%AA/</url>
+    <content><![CDATA[<p>真是奇怪！真是奇怪！真是奇怪！<br>昨天晚上，在hexo推送博客，突然404了<br>很慌，怎么弄都不行；</p>
+<p>按照提示，按了ctrl+C，啪的一声！<br>很快啊！<br><strong>蓝屏了。</strong></p>
+<p>重启过几秒后，所有应用程序都无响应！<br>我还是懂一点应急处理的，开机进入安全模式，打开了！<br><del>这就叫专业！</del></p>
+<p>然后360系统急救箱狂暴轰入。</p>
+<p>扫出来了几个问题，很好！<br>和我想的一样，有几个开机启动有问题，关了！<br><strong>重启！</strong><br>满怀期待！<del>哼哼，就这？</del></p>
+<p>砰！啥都蓝屏了，安全模式也蓝屏。<br>手足无措，开始百度，错误代码狂暴轰入搜索框。</p>
+<p>喔，哦，明白了，开机按着shift+F8，这就操作！<br>滴！！！！！！蜂鸣器报警不止。</p>
+<p>完蛋力，网上给出的方法只有：<br>①可能硬件问题。<br>②<strong>等死吧</strong>，或者重装系统。</p>
+<p>无奈，拿螺丝刀开后盖，纸巾狂暴轰入。<br>我吹！<strong>最古老的人类力量和最先进科技的碰撞</strong>，大概也就是这样罢！</p>
+<p>然后开机，选择最后一次正确设置启动。</p>
+<p><strong>成功了！！！</strong><br><strong>博客也好了！！！</strong></p>
+<p>？为什么博客也好了？我不就是擦擦灰么？</p>
+<p>不管了，能用就行。</p>
+<p>PS：推送这个博文成功也花了好大会儿，最后发现是文件名字里面带了空格。</p>
+]]></content>
+      <categories>
+        <category>随想录</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>考驾照之路1</title>
+    <url>/2021/06/11/%E8%80%83%E9%A9%BE%E7%85%A7%E4%B9%8B%E8%B7%AF1/</url>
+    <content><![CDATA[<p>哇哇，要考科目一了，先去体检，测测视力看看色盲然后活动活动手脚。<br>居然要28.5RMB，好贵；<br>心疼钱钱。</p>
+<p>然后这里记录科目一学习，<br>下了驾考宝典，做了几道题，<br>完全不懂蜜汁解析，<br>决定直接看《道路交通安全法》还有《道路交通安全法实施条例》<br>这才应该是正确打开方式吧！！</p>
+]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>学习</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《Hello World》影评</title>
+    <url>/2021/06/12/%E3%80%8AHello-World%E3%80%8B%E5%BD%B1%E8%AF%84/</url>
+    <content><![CDATA[<h1><span id="综述剧透警告">综述（剧透警告）</span></h1><p>本影评将从<strong>剧情，画面，人物，音乐，主题</strong>共五个方面阐述我的个人看法。<br>总体来说影片采用3D/2D结合的方式，画面开始很精美，我也是冲着这个来的。<br>但是中间的特苏鲁元素和快速闪屏有点难受，光敏性癫痫不建议观看。<br>音乐对我来说不出彩，剧情略显老套，即使刻意设置转折。<br>动作戏作画崩坏，后半部分经费不足，体验不算好，一个半小时左右，票价不太值。</p>
+<p>但为什么我打6.8分呢？<strong>女主好看啊啊！！！女主可爱啊啊！！！</strong></p>
+<p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20200502171958.jpg" alt></p>
+<p>很早就对这部影片觊觎已久。<del>今日一见，女主果然好看。</del></p>
+<p>但！客观来讲，如果不是女主和开始的作画，我估计会打5分一下！</p>
+<p>下面开始分开讲：</p>
+<h2><span id="剧情-375">剧情 （3.7/5）</span></h2><p>一开始看，是未来男主穿越回来让现在男主拯救女主的故事。<br>不是吧阿sir，都2019年（电影首映时间）了，一个字，土！<br><del>（原谅我的直白）</del></p>
+<p>哆啦A梦，命运石之门，你的名字，都是成功者，楼主，沙发，板凳，地板，快到地心了喂!</p>
+<p>然后，随着视线推进，才了解到男主处于一个大的电脑系统，是虚拟的，<br>好家伙，黑客帝国，甚至有点《I Robot》or《源代码》的味道，太赛博朋克了。</p>
+<p>紧接着，物理外挂，时空外挂都用上了，男主终于拯救成功了。<br>一看时间，不到一个小时啊才？？！<br><strong>反转！</strong> 男主被未来男主利用了，虚拟女主要没了，要用来复活现实女主记忆了！</p>
+<p><del>（好像很多灵异小说桥段，男主怎么献祭复活女主之类的，我称之为赛博灵异事件）</del></p>
+<p>砰！系统出错了！影响现实了！啥都要没了！<br>男主在物理外挂的指导下，克服各种困难，打败崩溃系统，最终抱得美人归的故事。</p>
+<p>影片末尾，是男主醒了的镜头，在一座太空站里，女主叫到“好耶！”<br>结束了，有点强行的反转，有点欧亨利、盗梦空间的感觉。</p>
+<p><img src= data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= data-src="https://cdn.jsdelivr.net/gh/pigz2538/Images/Images/20210612225951.png" alt></p>
+<p>总的来说，剧情方面新意不够，有缝合嫌疑，但勉勉强强将来一个还算完整的故事，还算完整的世界观，结尾也可以看成留白，让观众想象最上层世界发生的事情。</p>
+<p><strong>优点：设定有点符合我的口味。</strong><br><strong>缺点：剧情之间逻辑关联不强。</strong></p>
+<p>完蛋，看了外传，世界观理解偏差，推到重写。5555</p>
+]]></content>
+      <categories>
+        <category>影评</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+        <tag>影评</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>CUPT测试</title>
+    <url>/2022/02/23/CUPT%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<h1><span id="测试">测试</span></h1><p>哈哈哈</p>
+]]></content>
+      <categories>
+        <category>物理</category>
+      </categories>
+      <tags>
+        <tag>物理</tag>
+        <tag>CUPT</tag>
       </tags>
   </entry>
 </search>
